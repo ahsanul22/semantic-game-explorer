@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+         <games:simulation rdf:about="https://dbpedia.org/page/Euro_Truck_Simulator">
+         <games:number>1</games:number>
+         <games:abstract>
+             Euro Truck Simulator is a truck driving simulation game developed and published by SCS Software. Players can experience the life of a truck driver, delivering cargo across various European cities. The game features realistic trucks, detailed landscapes, and challenging missions, offering players a true trucking experience.
+         </games:abstract>
+         <games:developer>SCS_Software</games:developer>
+         <games:releaseDate>2008-08-29</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Euro_Truck_Simulator"/>
+     </games:simulation>
+     
+     <games:simulation rdf:about="https://dbpedia.org/page/American_Truck_Simulator">
+         <games:number>2</games:number>
+         <games:abstract>
+             American Truck Simulator is a truck driving simulation game developed and published by SCS Software. Players can explore the roads of the United States, delivering various cargoes in realistic American trucks. The game features detailed landscapes, authentic truck models, and a variety of challenging missions.
+         </games:abstract>
+         <games:developer>SCS_Software</games:developer>
+         <games:releaseDate>2016-02-02</games:releaseDate>
+         <games:platforms>Microsoft Windows, macOS, Linux</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/American_Truck_Simulator"/>
+     </games:simulation>
+     
+     <games:simulation rdf:about="https://dbpedia.org/page/Automobilista_2">
+         <games:number>5</games:number>
+         <games:abstract>
+             Automobilista 2 is a racing simulation video game developed and published by Reiza Studios. It offers a highly realistic racing experience with a focus on motorsports simulation. Players can compete in various racing disciplines, including open-wheel, touring cars, and endurance racing. The game features a wide range of meticulously detailed cars and tracks, providing players with an authentic racing environment. Automobilista 2 includes advanced physics, dynamic weather, and day-night cycles, enhancing the realism of the gameplay. Players can customize their vehicles, participate in championships, and experience realistic race conditions.
+         </games:abstract>
+         <games:developer>Reiza_Studios</games:developer>
+         <games:releaseDate>2020-03-31</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Automobilista_2"/>
+     </games:simulation>
+     
+     <games:simulation rdf:about="https://dbpedia.org/page/Driver:_San_Francisco">
+             <games:number>6</games:number>
+             <games:abstract>	
+                 Driver: San Francisco is an open-world action-adventure racing video game developed by Ubisoft Reflections and published by Ubisoft. The game is set in a fictional version of San Francisco and features the main protagonist, Tanner, who has the ability to shift into the bodies of other drivers. Players can explore the city, engage in various missions, and participate in high-speed chases and races. The game's unique mechanic of "shifting" allows players to experience different aspects of the city and its inhabitants. Driver: San Francisco offers a compelling storyline, immersive gameplay, and a wide range of vehicles to drive. It was released to critical acclaim for its innovative gameplay and engaging narrative.
+             </games:abstract>
+             <games:developer>Ubisoft_Reflections</games:developer>
+             <games:releaseDate>2011-09-01</games:releaseDate>
+             <games:platforms>PlayStation 3, Xbox 360, Microsoft Windows, Mac OS X</games:platforms>
+             <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Driver:_San_Francisco"/>
+         </games:simulation>
+     
+      <games:simulation rdf:about="https://dbpedia.org/page/TrackMania_2:_Canyon">
+             <games:number>7</games:number>
+             <games:abstract>	
+                 TrackMania 2: Canyon is a racing video game developed by Nadeo and published by Ubisoft. It is a part of the TrackMania series and was released on September 14, 2011. The game focuses on time attack gameplay, where players can race on various tracks with different vehicles and compete to set the fastest time. TrackMania 2: Canyon features an extensive track editor that allows players to create and share their custom tracks. The game offers a wide variety of vehicles, including sports cars and off-road vehicles, each with unique handling characteristics. Players can participate in single-player campaigns, online multiplayer races, and join community-created events. The game is known for its user-generated content and a vibrant online community.
+             </games:abstract>
+             <games:developer>Nadeo</games:developer>
+             <games:releaseDate>2011-09-14</games:releaseDate>
+             <games:platforms>Microsoft Windows</games:platforms>
+             <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/TrackMania_2:_Canyon"/>
+         </games:simulation>
+     
+         <games:simulation rdf:about="https://dbpedia.org/page/Autobahn_Police_Simulator">
+             <games:number>8</games:number>
+             <games:abstract>
+                 Autobahn Police Simulator is a simulation video game developed by Z-Software and published by Aerosoft. In this game, players take on the role of a police officer patrolling the autobahn (highway) in a fictional German city. Players are responsible for enforcing traffic laws, responding to emergencies, and maintaining law and order on the busy highway. The game offers a realistic simulation of police procedures and features a variety of police vehicles, including patrol cars and motorcycles. Players can pull over vehicles, issue tickets, and participate in high-speed chases. Autobahn Police Simulator provides players with a detailed and immersive experience of police work on the autobahn.
+             </games:abstract>
+             <games:developer>Z-Software</games:developer>
+             <games:releaseDate>2015-08-26</games:releaseDate>
+             <games:platforms>Microsoft Windows</games:platforms>
+             <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Autobahn_Police_Simulator"/>
+         </games:simulation>
+     
+         <games:simulation rdf:about="https://dbpedia.org/page/Shift_2:_Unleashed">
+         <games:number>10</games:number>
+         <games:abstract>	
+             Shift 2: Unleashed is a racing simulation video game developed by Slightly Mad Studios and published by Electronic Arts. It is the sequel to the 2009 game Need for Speed: Shift and was released in 2011 for PlayStation 3, Xbox 360, and Microsoft Windows. The game features a variety of real-world tracks and cars, offering a realistic driving experience. Players can participate in different racing events, customize their vehicles, and compete against AI opponents or other players in online multiplayer mode. Shift 2: Unleashed received praise for its realistic handling, graphics, and immersive gameplay. The game also includes a helmet camera view, providing a more authentic perspective of the race. Shift 2: Unleashed is known for its challenging gameplay and attention to detail, making it a popular choice among racing simulation enthusiasts.
+             </games:abstract>
+             <games:releaseDate>2011-03-29</games:releaseDate>
+             <games:platforms>PlayStation 3, Xbox 360, Microsoft Windows</games:platforms>
+             <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Shift_2:_Unleashed"/>
+         </games:simulation>
+
+         <games:simulation rdf:about="https://dbpedia.org/page/War_Thunder">
+         <games:number>2</games:number>
+         <games:abstract>
+             War Thunder is a vehicular combat multiplayer video game developed and published by Gaijin Entertainment. It features military vehicles from the interwar period to the early cold war period, with a focus on World War II and the Korean War. Players can pilot aircraft, drive tanks and other armored vehicles, and command ships in various battle scenarios. The game offers a wide range of playable nations, realistic vehicle physics, and detailed damage models. War Thunder includes both player vs. environment and player vs. player modes, allowing players to engage in historical battles and cooperative missions.
+         </games:abstract>
+         <games:developer>Gaijin_Entertainment</games:developer>
+         <games:releaseDate>2012-08-15</games:releaseDate>
+         <games:platforms>PlayStation, Xbox, PC</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/War_Thunder"/>
+     </games:simulation>
+     
+         <games:simulation rdf:about="https://dbpedia.org/page/X-Plane_11">
+         <games:number>3</games:number>
+         <games:abstract>
+             X-Plane 11 is a flight simulation engine developed and published by Laminar Research. It is part of the X-Plane series and serves as the latest installment in the franchise. Released on March 30, 2017, X-Plane 11 offers a highly realistic flight simulation experience. The game is compatible with both Windows and macOS platforms, catering to a wide range of users. X-Plane 11 includes a variety of commercial and military aircraft, as well as global scenery covering most parts of the Earth.
+             X-Plane 11 features an extensive plugin architecture, allowing users to create their own modules and expand the software's functionality. The community-driven aspect of the game is evident through the X-Plane forums, where users share aircraft, scenery, and plugins. Additionally, the Scenery Gateway website enables users to collaborate on airport designs, enhancing the overall gaming experience.
+         </games:abstract>
+         <games:developer>Laminar_Research</games:developer>
+         <games:releaseDate>2017-03-30</games:releaseDate>
+         <games:platforms>PC, Mac, Linux</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/X-Plane_11"/>
+     </games:simulation>
+     
+         <games:simulation rdf:about="https://dbpedia.org/page/Star_Wars:_Squadrons">
+         <games:number>4</games:number>
+         <games:abstract>
+             Star Wars: Squadrons is a space combat simulator game developed by Motive Studios and published by Electronic Arts. Set in the Star Wars universe, the game allows players to engage in dogfights and space battles as pilots from both the New Republic and the Galactic Empire. Players can pilot iconic starfighters, participate in fleet battles, and engage in strategic multiplayer gameplay. The game also features a single-player campaign, where players can experience the events from the perspective of pilots on both sides of the conflict.
+         </games:abstract>
+         <games:developer>Motive_Studios</games:developer>
+         <games:releaseDate>2020-10-02</games:releaseDate>
+         <games:platforms>PlayStation 4, Xbox One, Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Star_Wars:_Squadrons"/>
+     </games:simulation>
+     
+     <games:simulation rdf:about="https://dbpedia.org/page/Ace_Combat_7">
+         <games:number>5</games:number>
+         <games:abstract>
+             Ace Combat 7: Skies Unknown is a flight combat simulation game developed and published by Bandai Namco Entertainment. It is the latest installment in the Ace Combat series. In the game, players take on the role of a skilled fighter pilot, engaging in intense aerial battles against enemy aircraft and participating in thrilling dogfights. Ace Combat 7 features a compelling single-player campaign with a gripping storyline, as well as multiplayer modes that allow players to compete against each other in epic aerial battles.
+         </games:abstract>
+         <games:developer>Bandai_Namco_Entertainment</games:developer>
+         <games:releaseDate>2019-01-18</games:releaseDate>
+         <games:platforms>PlayStation 4, Xbox One, Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Ace_Combat_7:_Skies_Unknown"/>
+     </games:simulation>
+     
+     <games:simulation rdf:about="https://dbpedia.org/page/Elite_Dangerous">
+         <games:number>6</games:number>
+         <games:abstract>
+             Elite Dangerous is a space simulation game developed and published by Frontier Developments. It is the fourth installment in the Elite series and allows players to explore a realistic galaxy in the 34th century. Players can pilot various spacecraft, trade goods, mine resources, engage in combat, and explore planets, star systems, and celestial phenomena. The game features a dynamic, player-driven narrative and an open-world sandbox environment, allowing players to shape the game's universe through their actions and decisions.
+             Elite Dangerous offers a vast and realistic recreation of the Milky Way galaxy, with accurately modeled star systems, planets, and celestial objects. Players can participate in a player-driven economy, join factions, and engage in multiplayer interactions with other players. The game also includes virtual reality (VR) support, allowing players to experience space exploration in an immersive VR environment.
+         </games:abstract>
+         <games:developer>Frontier_Developments</games:developer>
+         <games:releaseDate>2014-12-16</games:releaseDate>
+         <games:platforms>PC, PlayStation 4, Xbox One</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Elite_Dangerous"/>
+     </games:simulation>
+     
+     <games:simulation rdf:about="https://dbpedia.org/page/Kerbal_Space_Program">
+         <games:number>7</games:number>
+         <games:abstract>
+             Kerbal Space Program is a space flight simulation video game developed and published by Squad. In the game, players take control of a space program operated by Kerbals, a species of small green humanoids, who have constructed a spaceport called the Kerbal Space Center on their home planet Kerbin. Players can build and fly spacecraft, conduct experiments, explore celestial bodies, and complete various missions in a fictional planetary system. The game offers a realistic physics engine, allowing players to design and launch rockets, spaceplanes, satellites, and rovers using a variety of parts and components.
+         </games:abstract>
+         <games:developer>Squad</games:developer>
+         <games:releaseDate>2015-04-27</games:releaseDate>
+         <games:platforms>PC, macOS, Linux, PlayStation 4, Xbox One</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Kerbal_Space_Program"/>
+     </games:simulation>
+     
+     <games:simulation rdf:about="https://dbpedia.org/page/Project_Wingman">
+         <games:number>8</games:number>
+         <games:abstract>
+             Project Wingman is a flight simulation game developed by Sector D2 and published by Humble Games. The game offers intense aerial combat experiences in a fictional world with various landscapes and environments. Players can pilot a variety of fighter aircraft, engaging in dogfights and air battles against enemy planes, ground targets, and massive bosses. Project Wingman features a compelling single-player campaign, challenging missions, and a wide range of aircraft customization options.
+         </games:abstract>
+         <games:developer>Sector_D2</games:developer>
+         <games:releaseDate>2020-12-01</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Project_Wingman"/>
+     </games:simulation>
+     
+     <games:simulation rdf:about="https://dbpedia.org/page/IL-2_Sturmovik:_Battle_of_Stalingrad">
+         <games:number>10</games:number>
+         <games:abstract>
+             IL-2 Sturmovik: Battle of Stalingrad is a combat flight simulation game developed by 1C Game Studios and published by 1C Entertainment. It is part of the IL-2 Sturmovik series, known for its realistic portrayal of World War II aerial combat. The game is set during the Battle of Stalingrad and features detailed aircraft models, historical missions, and realistic flight physics. Players can choose to fly for the Soviet Air Force or the German Luftwaffe, engaging in dogfights, ground attacks, and other missions based on historical events.
+         </games:abstract>
+         <games:developer>1C_Game_Studios</games:developer>
+         <games:releaseDate>2013-10-22</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/IL-2_Sturmovik:_Battle_of_Stalingrad"/>
+     </games:simulation>
+
+     <games:simulation  rdf:about="https://dbpedia.org/page/The_Good_Life">
+        <games:number>1</games:number>
+        <games:abstract>	
+            The Good Life is a unique life simulation and puzzle-solving video game developed by White Owls Inc. and published by Playism. Players step into the shoes of Naomi Hayward, a New York photographer who becomes embroiled in a quirky mystery when she moves to a small English town called Rainy Woods. What sets The Good Life apart is that the residents of Rainy Woods turn into cats at night, including Naomi herself. Players can explore the town, interact with feline and human inhabitants, take photographs, and uncover the town's secrets. As Naomi, players can transform into a cat, allowing them to access new areas and solve puzzles. The game offers a delightful blend of exploration, photography, and puzzle-solving, making it a truly unique and captivating experience.
+        </games:abstract>
+        <games:developer>White_Owls_Inc</games:developer>
+        <games:releaseDate>2023-09-15</games:releaseDate>
+        <games:platforms>PlayStation, Xbox, Nintendo Switch, PC</games:platforms>
+        <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/The_Good_Life"/>
+ </games:simulation>
+
+<games:simulation rdf:about="https://dbpedia.org/page/My_Time_at_Portia">
+    <games:number>3</games:number>
+    <games:abstract>	
+        My Time at Portia is a life simulation role-playing video game developed by Pathea Games. In the game, players inherit a workshop and engage in various activities such as farming, crafting, raising animals, and interacting with the inhabitants of the post-apocalyptic town of Portia. Players can gather resources, complete quests, and build relationships with other characters. The game features an open world, colorful art style, and a day-night cycle, adding to the immersive experience. My Time at Portia emphasizes creativity and exploration, allowing players to customize their workshop and participate in various activities to contribute to the town's development.
+    </games:abstract>
+    <games:developer>Pathea_Games</games:developer>
+    <games:releaseDate>2019-01-15</games:releaseDate>
+    <games:platforms>PlayStation 4, Nintendo Switch, Xbox One, Microsoft Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/My_Time_at_Portia"/>
+</games:simulation>
+
+<games:simulation rdf:about="https://dbpedia.org/page//The_Sims_3">
+        <games:number>4</games:number>
+        <games:abstract>	
+            The Sims 3 is a life simulation video game developed by Maxis and published by Electronic Arts. It is the third major title in The Sims series and was originally released on June 2, 2009. In The Sims 3, players create and control virtual characters, guiding them through various aspects of their lives, such as relationships, career, and daily activities. Unlike its predecessors, The Sims 3 features an open-world environment, allowing players to explore the game's virtual world without any loading screens between lots. Players can customize their Sims' appearances, personalities, and homes, and can also pursue different career paths and hobbies. The game received positive reviews for its expanded gameplay and open-world design, becoming one of the best-selling PC games of all time.
+        </games:abstract>
+        <games:developer>Maxis</games:developer>
+        <games:releaseDate>2009-06-02</games:releaseDate>
+        <games:platforms>Microsoft Windows, macOS, Xbox 360, PlayStation 3</games:platforms>
+        <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/The_Sims_3"/>
+    </games:simulation>
+
+<games:simulation rdf:about="https://dbpedia.org/page/Coral_Island">
+    <games:number>5</games:number>
+    <games:abstract>	
+        Coral Island is a life simulation role-playing video game developed by Stairway Games. In the game, players find themselves on a vibrant island filled with diverse flora and fauna. Players can engage in activities such as farming, fishing, raising animals, and interacting with the island's inhabitants. The game offers a relaxing and immersive experience, allowing players to explore the island, build relationships, and contribute to the community's development. Coral Island features stunning visuals, a dynamic weather system, and a variety of activities to enjoy, making it a delightful simulation game for players of all ages.
+    </games:abstract>
+    <games:developer>Stairway_Games</games:developer>
+    <games:releaseDate>2023-03-15</games:releaseDate>
+    <games:platforms>Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Coral_Island"/>
+</games:simulation>
+
+<games:simulation rdf:about="https://dbpedia.org/page/Animal_Crossing">
+    <games:number>6</games:number>
+    <games:abstract>
+        Animal Crossing is a popular life simulation video game series developed and published by Nintendo. In the game, players assume the role of a character who moves to a new village inhabited by anthropomorphic animals. Players can engage in various activities such as fishing, bug catching, fossil hunting, and fossil hunting. The game operates in real-time, with changing seasons and events, allowing players to experience different activities throughout the year. Players can decorate their homes, interact with villagers, and participate in community events, fostering a sense of community and camaraderie.
+    </games:abstract>
+    <games:developer>Nintendo</games:developer>
+    <games:releaseDate>First release: 2001-04-14</games:releaseDate>
+    <games:platforms>Nintendo Switch, Nintendo 3DS, Wii, GameCube</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Animal_Crossing"/>
+</games:simulation>
+
+<games:simulation rdf:about="https://dbpedia.org/page/Harvest_Moon">
+    <games:number>7</games:number>
+    <games:abstract>	
+        Harvest Moon is a popular life simulation and farming role-playing video game series developed by Amccus. In the game, players take on the role of a farmer who must build and maintain a successful farm, raise animals, grow crops, and build relationships with the townspeople. Players can participate in various activities such as fishing, mining, and participating in festivals. The game emphasizes time management, agricultural skills, and social interactions, creating a relaxing and immersive gameplay experience.
+    </games:abstract>
+    <games:developer>Amccus</games:developer>
+    <games:releaseDate>1996-08-09</games:releaseDate>
+    <games:platforms>Various consoles and platforms</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Harvest_Moon_(video_game)"/>
+</games:simulation>
+
+
+<games:simulation rdf:about="https://dbpedia.org/page/Tomodachi_Life">
+    <games:number>8</games:number>
+    <games:abstract>	
+        Tomodachi Life is a life simulation video game developed and published by Nintendo for the Nintendo 3DS handheld gaming console. In the game, players create and customize Mii characters and watch them interact in a virtual world. Players can give their Miis personalities, provide them with homes, and help them engage in various activities, such as dating, socializing, and even getting married. The game features a wide range of activities and events, allowing players to observe and influence the lives of their virtual inhabitants. Tomodachi Life offers a unique and quirky experience, filled with humorous moments and unexpected interactions.
+    </games:abstract>
+    <games:developer>Nintendo</games:developer>
+    <games:releaseDate>2014-04-18</games:releaseDate>
+    <games:platforms>Nintendo 3DS</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Tomodachi_Life"/>
+</games:simulation>
+
+<games:simulation rdf:about="https://dbpedia.org/page/Youtubers_Life">
+    <games:number>3</games:number>
+    <games:abstract>	
+        Youtubers Life is a life simulation video game developed and published by U-Play Online. In the game, players take on the role of a virtual YouTuber, managing their channel, creating videos, gaining subscribers, and balancing various aspects of their virtual life. Players can choose different themes for their channel, collaborate with other YouTubers, attend events, and upgrade their equipment to enhance the quality of their videos. Youtubers Life provides a comprehensive simulation of the life of a content creator, allowing players to experience the challenges and rewards of building a successful online channel.
+    </games:abstract>
+    <games:developer>U-Play_Online</games:developer>
+    <games:releaseDate>2016-05-18</games:releaseDate>
+    <games:platforms>Microsoft Windows, macOS, iOS, Android, PlayStation 4, Xbox One, Nintendo Switch</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Youtubers_Life"/>
+</games:simulation>
+
+<games:simulation rdf:about="https://dbpedia.org/page/House_Flipper">
+    <games:number>3</games:number>
+    <games:abstract>	
+        House Flipper is a simulation video game developed by Empyrean and published by PlayWay S.A. In the game, players take on the role of a one-man renovation crew, purchasing rundown houses, renovating them, and then selling for a profit. Players can clean, decorate, and furnish the houses according to their preferences. House Flipper offers a realistic renovation experience, allowing players to repair and upgrade various aspects of the houses, from painting walls to installing appliances. The game features a variety of tools and customization options, providing a satisfying gameplay experience for aspiring home designers and renovators.
+    </games:abstract>
+    <games:developer>Empyrean</games:developer>
+    <games:releaseDate>2018-05-17</games:releaseDate>
+    <games:platforms>Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/House_Flipper"/>
+</games:simulation>
+</rdf:RDF>

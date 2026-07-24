@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+
+<games:RPG-strategy rdf:about="https://dbpedia.org/page/Crusader_Kings_III">
+    <games:number>1</games:number>
+    <games:abstract>Crusader Kings III is a grand strategy role-playing video game set in the Middle Ages, developed by Paradox Development Studio and published by Paradox Interactive as a sequel to Crusader Kings (2004) and Crusader Kings II (2012). The game was released on PC on 1 September 2020 and on the Xbox Series X/S and PlayStation 5 on 29 March 2022.</games:abstract>
+    <games:developer>Paradox_Development_Studio</games:developer>
+    <games:releaseDate>2020-09-01</games:releaseDate>
+    <games:platforms>PC, Xbox_Series_X/S, Playstation_5</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Crusader_Kings_III"/>
+    </games:RPG-strategy>
+
+    <games:RPG-strategy rdf:about="https://dbpedia.org/page/XCOM_2">
+    <games:number>3</games:number>
+    <games:abstract>XCOM 2 is a 2016 turn-based tactics video game developed by Firaxis Games and published by 2K Games. It is the sequel to 2012's reboot of the series, XCOM: Enemy Unknown; it takes place 20 years after the events of Enemy Unknown. XCOM, a military organization trying to fight off an alien invasion, has lost the war and is now a resistance force against the occupation of Earth and the established totalitarian regime and military dictatorship. Gameplay is split between turn-based combat in which players command a squad of soldiers to fight enemies, and strategy elements in which players manage and control the operations of the Avenger, an alien ship that is used as a mobile base for XCOM. Following players' feedback on Enemy Unknown, Firaxis added procedural generation of maps and mod support to the game. The developers set the game after the bad ending of the 2012 reboot because it allowed them to change gameplay, introduce various new features and redesign some enemies. To encourage players to play more offensively, the developers introduced time-based objectives to boost the game's pacing. Compared with its predecessor, XCOM 2 has more emphasis on narrative. The artists drew inspiration from sci-fi movies including Elysium and Oblivion when creating the game's aesthetic. The game is powered by Unreal Engine 3.5. XCOM 2 was released in February 2016 for personal computers; PlayStation 4 and Xbox One versions were released in September 2016. Upon release, the game received critical acclaim. Critics praised the new concealment system, which they said adds a new layer of depth, and the procedural generation of maps. The game was also praised for its difficulty and the addition of modding tools; criticism was mainly directed at its poor performance at launch. It was nominated for multiple year-end accolades by several gaming publications. Firaxis supported the game with downloadable content and released XCOM 2: War of the Chosen, the game's expansion, in 2017. A Nintendo Switch port was released on May 29, 2020. An iOS version, XCOM 2 Collection, was released by Feral Interactive on November 5, 2020. An Android version was released on July 13, 2021.</games:abstract>
+    <games:developer>Firaxis_Games</games:developer>
+    <games:releaseDate>2016-02-05, 2016-09-27</games:releaseDate>
+    <games:platforms>Windows, Linux, Nintendo_Switch, IOS, Android, PlayStation_4, Xbox_One, OS_X</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/XCOM_2"/>
+    </games:RPG-strategy>
+
+    <games:RPG-strategy rdf:about="https://dbpedia.org/page/Slay_the_Spire">
+    <games:number>4</games:number>
+    <games:abstract>Slay the Spire is a roguelike deck-building video game developed by American studio MegaCrit and published by Humble Bundle. The game was first released in early access for Microsoft Windows, macOS, and Linux in late 2017, with an official release in January 2019. It was released for PlayStation 4 in May 2019, for Nintendo Switch in June 2019 and for Xbox One in August 2019. An iOS version was released in June 2020, with an Android version released in February 2021. In Slay the Spire, the player, through one of four characters, attempts to ascend a spire of multiple floors, created through procedural generation, battling through enemies and bosses. Combat takes place through a collectible card game-based system, with the player gaining new cards as rewards from combat and other means, requiring the player to use strategies of deck-building games to construct an effective deck to complete the climb. Slay the Spire has been well received. It was nominated for several accolades in 2019, and is considered the game that launched a number of roguelike deck-building games.</games:abstract>
+    <games:developer>MegaCrit</games:developer>
+    <games:releaseDate>2019-01-23</games:releaseDate>
+    <games:platforms>MacOS, Windows, Nintendo_Switch, Linux, Android, IOS, PlayStation_4, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Slay_the_Spire"/>
+    </games:RPG-strategy>
+
+    <games:RPG-strategy rdf:about="https://dbpedia.org/page/Fire_Emblem">
+    <games:number>5</games:number>
+    <games:abstract>Fire Emblem is a fantasy tactical role-playing game franchise developed by Intelligent Systems and published by Nintendo. First produced and published for the Famicom in 1990, the series currently consists of sixteen core entries and four spinoffs. Gameplay revolves around the tactical movement of characters across grid-based environments, while incorporating a story and characters similar to traditional role-playing video games. A notable aspect of gameplay is the permanent death of characters in battle, removing them from the rest of the game when they are defeated. In newer games, from Fire Emblem: New Mystery of the Emblem onwards, players get to choose between Classic Mode, in which fallen characters remain dead, or Casual Mode, in which fallen characters are revived for the next battle. The series title refers to the "Fire Emblem", a recurring element in the series that is usually portrayed as a royal weapon or shield representing the power of war and dragons. The development of the first game began as a dōjin project by Shouzou Kaga and three other developers. Its success prompted the development of further games in the series. Kaga headed the development of each entry until the release of Thracia 776, when he left Intelligent Systems and founded his game studio to develop Tear Ring Saga. No games in the series were released outside of Japan until two characters, Marth and Roy, were included as playable characters in the 2001 fighting game Super Smash Bros. Melee. Their popularity, as well as the international success of the similarly turn-based Advance Wars, eventually convinced Nintendo to release future games in Western territories, starting with the seventh game The Blazing Blade under the title Fire Emblem in 2003. Many games in the series have sold well despite a decline during the 2000s, which resulted in the series' near-cancellation, a fate that was reversed with the unprecedented critical and commercial success of Fire Emblem Awakening (2012). Individual entries have generally been praised, the series as a whole has been lauded for its gameplay, and it is frequently cited as the seminal series in the tactical role-playing genre, codifying various gameplay elements that would come to define the genre. Characters from across the series have also been included in crossovers with other video game franchises, including the aforementioned Super Smash Bros. series.</games:abstract>
+    <games:developer>Koei_Tecmo, Intelligent_Systems</games:developer>
+    <games:releaseDate>1990-04-20, 2019-07-26</games:releaseDate>
+    <games:platforms>Game_Cube, Game_Boy_Advance, Wii, Wii_U, Nintendo_3DS, Nintendo_DS, Nintendo_Switch, Android, IOS</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fire_Emblem"/>
+    </games:RPG-strategy>
+
+    <games:RPG-strategy rdf:about="https://dbpedia.org/page/Final_Fantasy_Tactics:_The_War_of_the_Lions">
+    <games:number>6</games:number>
+    <games:abstract>Final Fantasy Tactics: The War of the Lions (Japanese: ファイナルファンタジータクティクス 獅子戦争, Hepburn: Fainaru Fantajī Takutikusu Shishi Sensō) is a tactical role-playing game developed and published by Square Enix for the PlayStation Portable (PSP). The game is an updated version of Final Fantasy Tactics made for the PlayStation which was released in 1997. The War of the Lions is the second announced game in Square Enix's "Ivalice Alliance" series of video games set in the Ivalice fictional world. The first is Final Fantasy XII: Revenant Wings (a sequel to Final Fantasy XII) and the third is Final Fantasy Tactics A2: Grimoire of the Rift (both of which were released on Nintendo DS). Ivalice (during the setting of the game) has technology in line with the late medieval era of human history along with the typical magic and supernatural abilities found in most Final Fantasy games. Players control a mercenary named Ramza who finds himself embroiled in a civil war and an ancient demonic evil that has begun to take hold over the world. A noble by birth, he is forced to re-evaluate his opinion of commoners when his lowborn best friend starts a revolution against the ruling powers of Ivalice. The game was overhauled during development to take advantage of the PSP's screen ratio and technical abilities which resulted in new cutscenes, the capacity for multiplayer, and other features. War of the Lions also includes new playable characters from other Final Fantasy titles, such as Balthier from Final Fantasy XII and Luso Clemens from Final Fantasy Tactics A2: Grimoire of the Rift, as well as returning favorite Cloud Strife from Final Fantasy VII, who was playable in the original release of the game. The War of the Lions received strong reviews upon its release and has since been adapted for mobile phones and tablet devices.</games:abstract>
+    <games:developer>TOSE, Square_Enix</games:developer>
+    <games:releaseDate>2007-05-10, 2011-08-04, 2013-02-14</games:releaseDate>
+    <games:platforms>Android, PlayStation_Portable, IOS</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Final_Fantasy_Tactics:_The_War_of_the_Lions"/>
+    </games:RPG-strategy>
+
+    <games:RPG-strategy rdf:about="https://dbpedia.org/page/Disgaea_5">
+    <games:number>8</games:number>
+    <games:abstract>Disgaea 5: Alliance of Vengeance (魔界戦記ディスガイア5, Makai Senki Disugaia 5) is a 2015 tactical role-playing video game developed and published by Nippon Ichi Software, and part of the Disgaea series. It was initially released for PlayStation 4 in Japan in March 2015, and by NIS America in North America and Europe in October 2015. A port for the Nintendo Switch was released in Japan in March 2017, as a launch title for the system, and worldwide in May 2017, under the title Disgaea 5 Complete, containing all DLC content from the original, but no new content. This version of the game was released on Microsoft Windows through Steam in October 2018, albeit without network compatibility. The central story of the game is centered on the idea of "revenge" and takes a darker and more serious direction compared to the previous titles in the series. The demon emperor Void Dark devastates numerous Netherworlds after coming to power, with the help of an army of over one million soldiers known as The Lost. Following this, the Overlords of the Netherworlds under Void Dark's rule attempt to rise up and take revenge.</games:abstract>
+    <games:developer>Nippon_Ichi_Software</games:developer>
+    <games:releaseDate>2015-03-25</games:releaseDate>
+    <games:platforms>Microsoft_Windows, PlayStation_4, Nintendo_Switch</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Disgaea_5"/>
+    </games:RPG-strategy>
+
+    <games:RPG-strategy rdf:about="https://dbpedia.org/page/Valkyria_Chronicles_4">
+    <games:number>9</games:number>
+    <games:abstract>Valkyria Chronicles 4 is a tactical role-playing game developed and published by Sega, with assistance from Media.Vision. It is the fourth main game in the Valkyria Chronicles series. It was released in Japan for the PlayStation 4 in March 2018, and worldwide, in addition for the Nintendo Switch, Windows and Xbox One in September 2018. It was also ported to Stadia on December 8, 2020.</games:abstract>
+    <games:developer>SEGA</games:developer>
+    <games:releaseDate>2018-03-21, 2018-09-25</games:releaseDate>
+    <games:platforms>Google_Stadia, Windows, Nintendo_Switch, PlayStation_4, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Valkyria_Chronicles_4"/>
+    </games:RPG-strategy>
+
+    <games:RPG-strategy rdf:about="https://dbpedia.org/page/Wasteland_3">
+    <games:number>10</games:number>
+    <games:abstract>Wasteland 3 is a role-playing video game developed by inXile Entertainment and published by Deep Silver. It is a sequel to Wasteland 2 (2014) and was released for Microsoft Windows, PlayStation 4 and Xbox One on August 28, 2020. It was ported to Linux and macOS on December 17, 2020.</games:abstract>
+    <games:developer>inXile_Entertainment</games:developer>
+    <games:releaseDate>2020-08-28, 2020-12-17</games:releaseDate>
+    <games:platforms>Microsoft_Windows, PlayStation_4, Xbox_One, Linux, MacOS</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Wasteland_3"/>
+    </games:RPG-strategy>
+    </rdf:RDF>

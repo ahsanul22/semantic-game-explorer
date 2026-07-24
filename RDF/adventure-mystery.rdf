@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+    <games:adventure-mystery rdf:about="https://dbpedia.org/page/Scarygirl">
+    <games:number>1</games:number>
+    <games:abstract>Scarygirl (also stylized as ScaryGirl) is an adventure-platform game for the Xbox 360's Xbox Live Arcade, PlayStation 3's PlayStation Network and Microsoft Windows. Scarygirl was previously a graphic novel by Nathan Jurevicius, a Flash game, and a downloadable title for the PlayStation Portable. It was developed by TikGames and published by Square Enix. Scarygirl places the player in control of a girl who is sent from her home to a far-away city on a rescue mission. The girl is able to jump, grapple, and hover her way through seven game worlds, either alone or with another player in a cooperative multiplayer mode. Combat is handled through combining strings of light and heavy attacks, with grapple-based attacks becoming available once enemies take enough damage. Roundly praised for Jurevicius' art, ScaryGirl received otherwise mixed reviews upon its release. Critics found fault with both the control scheme and its combat system, although boss battles did receive some praise. (en)</games:abstract>
+    <games:developer>TIK Games</games:developer>
+    <games:releaseDate>2012-01-18</games:releaseDate>
+    <games:platforms> Xbox 360's Xbox Live Arcade, PlayStation 3, PlayStation Network, Microsoft Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Scarygirl"/>
+    </games:adventure-mystery>
+
+    <games:adventure-mystery rdf:about="https://dbpedia.org/page/Schizm:_Mysterious_Journey">
+    <games:number>2</games:number>
+    <games:abstract>Schizm: Mysterious Journey is an adventure-genre computer game created by Detalion and LK Avalon and published by DreamCatcher Games. It was authored by acclaimed Australian science fiction writer Terry Dowling. Within a year of release, its sales had surpassed 250,000 units worldwide. A major distinguishing feature of Schizm is that the player can switch control between the two characters at any time. There are puzzles which require both characters to be performing actions at the same time before they can be solved. A sequel, Mysterious Journey II (also known as Schizm II: Chameleon), was released. It was also authored by Terry Dowling. (en)</games:abstract>
+    <games:developer>Detalion, LK_Avalon</games:developer>
+    <games:releaseDate>2001-10-11</games:releaseDate>
+    <games:platforms>Microsoft_Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Schizm:_Mysterious_Journey"/>
+    </games:adventure-mystery>
+
+    <games:adventure-mystery rdf:about="https://dbpedia.org/page/Scooby-Doo_Mystery">
+    <games:number>4</games:number>
+    <games:abstract>Scooby-Doo Mystery is the name of two video games released by Acclaim Entertainment and Sunsoft in 1995 based on the Scooby-Doo animated series. One of the games was released for the Sega Genesis and features a more traditional adventure game style interface. The other title, released for the Super Nintendo Entertainment System, is an adventure game with platforming elements. Both were released only in North America. In both games, players take control of Shaggy Rogers and Scooby-Doo, who help solve various mysteries with other members of Mystery Incorporated who serve minor roles during gameplay. (en)</games:abstract>
+    <games:developer>Argonaut_Games, Illusions_Gaming_Company</games:developer>
+    <games:releaseDate>1995-09-01</games:releaseDate>
+    <games:platforms>Super_Nintendo_Entertainment_System, Sega_Genesis</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Scooby-Doo_Mystery"/>
+    </games:adventure-mystery>
+
+    <games:adventure-mystery rdf:about="https://dbpedia.org/page/Mystery_House">
+    <games:number>7</games:number>
+    <games:abstract>Mystery House is an adventure game released by On-Line Systems in 1980. It was designed, written and illustrated by Roberta Williams, and programmed by Ken Williams for the Apple II. Mystery House is the first graphical adventure game and the first game produced by On-Line Systems, the company which would evolve into Sierra On-Line. It is one of the earliest horror video games.</games:abstract>
+    <games:developer>Sierra Entertaiment</games:developer>
+    <games:releaseDate>1980-05-05 </games:releaseDate>
+    <games:platforms>Apple_II</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Mystery_House"/>
+    </games:adventure-mystery>
+
+    <games:adventure-mystery rdf:about="https://dbpedia.org/page/Detective_Grimoire:_Secret_of_the_Swamp">
+    <games:number>8</games:number>
+    <games:abstract>Detective Grimoire: Secret of the Swamp, also simply called Detective Grimoire, is a murder mystery point-and-click adventure game developed by SFB Games and published by Armor Games, which was released on iOS platforms on January 2, 2014. It was later released on Android, PC, Mac, Linux and Steam by SFB Games. The game has been well received for its mystery, animation, dialogue and protagonist. It is intended to be the first game in a True Detective Grimoire franchise. A sequel, Tangle Tower, was released in 2019. However It was predated by a flash game release of the same name in 2007. (en)</games:abstract>
+    <games:developer>SFB_Games</games:developer>
+    <games:releaseDate>2014-01-02</games:releaseDate>
+    <games:platforms>Android_(operating_system), Linux, MacOS, IOS, Windows_(operating_system)</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Detective_Grimoire:_Secret_of_the_Swamp"/>
+    </games:adventure-mystery>
+
+    <games:adventure-mystery rdf:about="https://dbpedia.org/page/Case_Closed:_The_Mirapolis_Investigation">
+    <games:number>10</games:number>
+    <games:abstract>Case Closed: The Mirapolis Investigation, known in Japan as Meitantei Conan: Tsuioku no Mirage (名探偵コナン 追憶の幻想（ミラージュ）, Meitantei Konan: Tsuioku no Mirāju, lit. "Detective Conan: Mirage of Remembrance"), is a video game for the Wii. It is based upon the popular anime and manga series Case Closed by Gosho Aoyama. Players use the Wii Remote to find clues and solve the cases. (en)</games:abstract>
+    <games:developer>Imageepoch</games:developer>
+    <games:releaseDate>2007--05-17</games:releaseDate>
+    <games:platforms>Wii</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Case_Closed:_The_Mirapolis_Investigation"/>
+    </games:adventure-mystery>
+
+    <games:adventure rdf:about="https://dbpedia.org/page/Tales_of_Monkey_Island">
+    <games:number>1</games:number>
+    <games:abstract>Tales of Monkey Island is a 2009 graphic adventure video game developed by Telltale Games under license from LucasArts. It is the fifth game in the Monkey Island series, released nearly a decade after the previous installment, Escape from Monkey Island. Developed for Windows and the Wii console, the game was released in five episodic segments, between July and December 2009. In contrast to Telltale's previous episodic adventure games, whose chapters told discrete stories, each chapter of Tales of Monkey Island is part of an ongoing narrative. The game was digitally distributed through WiiWare and Telltale's own website, and later through Steam and Amazon.com. Ports for OS X, the PlayStation Network, and iOS were released several months after the series ended. Players assume the role of pirate Guybrush Threepwood, who—while attempting to destroy his nemesis, the undead pirate LeChuck—accidentally releases a voodoo pox across the Gulf of Melange. With the assistance of his wife, Elaine Marley–Threepwood, Guybrush seeks out a cure. The game was conceived in late 2008, due to renewed interest in adventure game development within LucasArts. It was developed concurrently with LucasArts' special edition of the 1990 game The Secret of Monkey Island; LucasArts oversaw production of Tales of Monkey Island, and ensured that it matched the remake in certain areas, such as art direction. Production began in early 2009; franchise creator Ron Gilbert was involved in project planning, while development was led by Dave Grossman, who co-designed the first two Monkey Island games. The game's music was composed by Michael Land, and the core cast of The Curse of Monkey Island reprised their voice roles. Tales of Monkey Island received generally positive reviews. Critics praised the game's story, writing, humor, voice acting and characterization; 1UP.com described Guybrush as Telltale's strongest and most expressive character yet. The game's music and graphics were also lauded. Complaints focused primarily on the perceived erratic quality of the game's puzzle design, a weak supporting cast in the early chapters, and the game's control system. Tales of Monkey Island garnered several industry awards, and was Telltale's most commercially successful project until Back to the Future: The Game. A sixth entry in the franchise, Return to Monkey Island by publisher Devolver Digital, Lucasfilm Games and Terrible Toybox, was released on September 19 2022. (en)</games:abstract>
+    <games:developer>Telltale_Games</games:developer>
+    <games:releaseDate>2009-07-07</games:releaseDate>
+    <games:platforms>Wii, PlayStation_3, IOS, Microsoft_Windows, OS_X</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Tales_of_Monkey_Island"/>
+    </games:adventure>
+
+    <games:adventure rdf:about="https://dbpedia.org/page/Professor_Layton">
+    <games:number>2</games:number>
+    <games:abstract>Professor Layton is a puzzle adventure video game series and transmedia franchise developed by Level-5. The property consists primarily of seven main video games, a mobile spin-off, an animated theatrical film, and an anime television series, while additionally incorporating an array of secondary titles and media including a crossover game with Capcom's Ace Attorney series, by which the Layton series was strongly influenced. The first three games follow the adventures of Professor Hershel Layton and his apprentice Luke Triton, while the subsequent three games and film are prequels, focusing on how Luke and Layton met and their original exploits. Later installments follow the escapades of Layton's children and their respective allies in settings old and new. Each title features a series of puzzles and mysteries provided by the citizens of locales that the main characters explore. It is not necessary to solve all the puzzles to progress, but some are mandatory, and at certain points in the game a minimum number of puzzles must be solved before the story can continue. Layton series games had shipped over 17 million units by June 2018, making it the company's best-selling game franchise at the time. (en)</games:abstract>
+    <games:developer>Level-5_(company), Matrix_Software</games:developer>
+    <games:releaseDate>2007-02-15</games:releaseDate>
+    <games:platforms>Android_(operating_system), Nintendo_3DS, Nintendo_DS, Nintendo_Switch, IOS</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Professor_Layton"/>
+    </games:adventure>
+
+    <games:adventure rdf:about="https://dbpedia.org/page/The_Longest_Journey">
+    <games:number>7</games:number>
+    <games:abstract>The Longest Journey (Bokmål: Den Lengste Reisen) is a magical realist point-and-click adventure video game developed by Norwegian studio Funcom for Microsoft Windows and released in 1999. The game was a commercial success, with sales in excess of 500,000 units by 2004, and was acclaimed by critics. An iOS version was released on October 28, 2014. (en)</games:abstract>
+    <games:developer>Funcom</games:developer>
+    <games:releaseDate>1999-11-18 </games:releaseDate>
+    <games:platforms>IOS, Microsoft Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/The_Longest_Journey"/>
+    </games:adventure>
+
+    <games:adventure rdf:about="https://dbpedia.org/page/Broken_Sword:_The_Shadow_of_the_Templars">
+    <games:number>8</games:number>
+    <games:abstract>Broken Sword: The Shadow of the Templars (also known as Circle of Blood in the United States) is a 1996 point-and-click adventure game, and the first in the Broken Sword series, co-written and directed by Charles Cecil, and developed by Revolution Software. The player assumes the role of George Stobbart (voiced by Rolf Saxon), an American tourist in Paris, as he attempts to unravel a deep conspiracy involving a sinister cult and a hidden treasure, seeing him travel to various locations around Europe and the Middle East. The game's storyline was conceived to feature a serious tone and heavily influenced by research on Knights Templar by Cecil, but was also interlaced with humor and graphics in the style of classic animated films. Development of the game saw considerable work to achieve its presentation. Artwork was conceived by Eoghan Cahill and Neil Breen, who particularly drew the backgrounds in pencil and digitally colored them in Photoshop, the game's design was handled by Tony Warriner and David Sykes, while the game's musical score was composed by Barrington Pheloung. The game was built with Revolution's Virtual Theatre engine, which had already been used by the company in two previous games, Lure of the Temptress and Beneath a Steel Sky. Broken Sword proved a critical and commercial success following its release on 30 September 1996. Critics lauded praise on the game's story, puzzles, voice acting, writing, gameplay, and music, leading to it receiving numerous award nominations and wins. Sales of the games bested expectations by the company, with around one million units having been sold by 2001. The game has topped several listings of the best adventures games, with many developers citing Broken Sword as an influence in future adventure games. After its initial release on Microsoft Windows, Mac OS, and PlayStation between 1996 and 1998, the game was ported to the Game Boy Advance in 2002, and Palm OS and Windows Mobile in 2006. The game spawned a number of sequels that would collectively form the Broken Sword series: Broken Sword II: The Smoking Mirror in 1997; Broken Sword: The Sleeping Dragon in 2003; Broken Sword: The Angel of Death in 2006; and Broken Sword 5: The Serpent's Curse in episodic format, between 2013 and 2014. An extended version of the game, Broken Sword: The Shadow of the Templars – Director's Cut, was released between 2009 and 2012 for Wii, Nintendo DS, Microsoft Windows, OS X, iOS, Android and Linux. (en)</games:abstract>
+    <games:developer>Revolution_Software</games:developer>
+    <games:releaseDate>1996-09-30</games:releaseDate>
+    <games:platforms>Game_Boy_Advance, Mac_OS, Windows_Mobile, Palm_OSPlayStation_(console), Microsoft_Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars"/>
+    </games:adventure>
+
+    <games:adventure rdf:about="https://dbpedia.org/page/Machinarium">
+    <games:number>9</games:number>
+    <games:abstract>Machinarium is a puzzle point-and-click adventure game developed by Amanita Design. It was released on 16 October 2009 for Microsoft Windows, OS X, Linux, on 8 September 2011 for iPad 2 on the App Store, on 21 November 2011 for BlackBerry PlayBook, on 10 May 2012 for Android, on 6 September 2012 on PlayStation 3's PlayStation Network in Europe, on 9 October 2012 in North America and on 18 October 2012 in Asia, and was also released for PlayStation Vita on 26 March 2013 in North America, on 1 May 2013 in Europe and on 7 May 2013 in Asia. Demos for Windows, Mac and Linux were made available on 30 September 2009. A future release for the Wii's WiiWare service was cancelled as of November 2011 due to WiiWare's 40MB limit. Microsoft Windows, OS X, Linux and Android versions of this game were released along with Humble Indie Bundle for Android 4 on 8 November 2012, to customers who paid over the average price. The Windows Phone version was released on 22 March 2014. In 2017, the developer released a Definitive Version of the game that is based on a DirectX engine instead of Adobe Flash and can be played in full-screen mode. The Xbox One version of the game was released on 16 April 2020. (en)</games:abstract>
+    <games:developer>Amanita_Design</games:developer>
+    <games:releaseDate>2009-10-16 </games:releaseDate>
+    <games:platforms>BlackBerry_PlayBook, Android_(operating_system), Linux,Windows_Phone_8, Nintendo_Switch, PlayStation_3, PlayStation_4, PlayStation_Vita, IPad_2, Microsoft_Windows, OS_X, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Machinarium"/>
+    </games:adventure>
+
+    <games:adventure rdf:about="https://dbpedia.org/page/Thimbleweed_Park">
+    <games:number>10</games:number>
+    <games:abstract>Thimbleweed Park is a point-and-click adventure game developed by Ron Gilbert and Gary Winnick for Microsoft Windows, macOS, iOS, Xbox One, PlayStation 4, Linux, Android, and Nintendo Switch. The game was revealed on November 18, 2014, along with a Kickstarter crowd-funding campaign with a goal of US$375,000, and was released on March 30, 2017. The game is a spiritual successor to Gilbert and Winnick's previous games Maniac Mansion (1987) and The Secret of Monkey Island (1990), and is designed to be similar to graphic adventure games released in that time period, both visually and in gameplay. (en)</games:abstract>
+    <games:developer>Terrible Toybox</games:developer>
+    <games:releaseDate>2017-03-30 </games:releaseDate>
+    <games:platforms>Android_(operating_system), Linux, MacOS, Nintendo_Switch, PlayStation_4, IOS, Microsoft_Windows, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Thimbleweed_Park"/>
+    </games:adventure>
+
+</rdf:RDF>

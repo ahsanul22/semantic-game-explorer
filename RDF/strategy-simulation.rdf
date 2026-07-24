@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+         <games:simulation-strategy rdf:about="https://dbpedia.org/page/Cities:_Skylines">
+         <games:number>2</games:number>
+         <games:abstract>	
+            Cities: Skylines is a city-building simulation game developed by Colossal Order and published by Paradox Interactive. The game was released in 2015 and offers players the opportunity to design and manage their own cities.
+            It is known for its extensive modding community and support for user-generated content.
+         </games:abstract>        
+         <games:developer>Colossal_Order</games:developer>
+         <games:releaseDate>2015-03-10</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Cities:_Skylines"/>
+         </games:simulation-strategy>
+
+         <games:simulation-strategy rdf:about="https://dbpedia.org/page/Planet_Coaster">
+         <games:number>3</games:number>
+         <games:abstract>	
+            Planet Coaster is a construction and management simulation video game developed and published by Frontier Developments. The game was released in 2016 and allows players to design and manage their own theme parks.
+            It is known for its detailed customization options and creative possibilities.
+         </games:abstract>        
+         <games:developer>Frontier_Developments</games:developer>
+         <games:releaseDate>2016-11-17</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Planet_Coaster"/>
+         </games:simulation-strategy>
+
+         <games:simulation-strategy rdf:about="https://dbpedia.org/page/Flight_Simulator_X">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Microsoft Flight Simulator X is a flight simulation video game developed by Microsoft Game Studios and ACES Studio. The game was originally released in 2006 and offers players the chance to pilot a wide variety of aircraft in realistic environments.
+         </games:abstract>        
+         <games:developer>Microsoft_Game_Studios</games:developer>
+         <games:releaseDate>2006-10-17</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_X"/>
+         </games:simulation-strategy>  
+
+         <games:simulation-strategy rdf:about="https://dbpedia.org/page/Two_Point_Hospital">
+         <games:number>5</games:number>
+         <games:abstract>	
+            Two Point Hospital is a business simulation video game developed by Two Point Studios and published by Sega. The game was released in 2018 and allows players to manage and operate their own healthcare facilities.
+            It combines humor with strategic management gameplay.
+         </games:abstract>        
+         <games:developer>Two_Point_Studios</games:developer>
+         <games:releaseDate>2018-08-30</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Two_Point_Hospital"/>
+         </games:simulation-strategy>           
+         
+         <games:simulation-strategy rdf:about="https://dbpedia.org/page/The_Escapists_2">
+         <games:number>6</games:number>
+         <games:abstract>	
+            The Escapists 2 is a strategy role-playing video game developed by Mouldy Toof Studios and published by Team17. The game was released in 2017 and is set in a prison environment.
+            Players must plan and execute prison escapes while dealing with daily routines.
+         </games:abstract>        
+         <games:developer>Mouldy_Toof_Studios</games:developer>
+         <games:releaseDate>2017-08-22</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/The_Escapists_2"/>
+         </games:simulation-strategy>           
+         
+         <games:simulation-strategy rdf:about="https://dbpedia.org/page/RollerCoaster_Tycoon">
+         <games:number>7</games:number>
+         <games:abstract>	
+            RollerCoaster Tycoon is a construction and management simulation video game developed by Chris Sawyer Productions and published by Hasbro Interactive. The game was originally released in 1999.
+            Players can design and operate their own amusement parks, including creating custom roller coasters.
+         </games:abstract>        
+         <games:developer>Chris_Sawyer_Productions</games:developer>
+         <games:releaseDate>1999-03-31</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/RollerCoaster_Tycoon"/>
+         </games:simulation-strategy>           
+         
+         <games:simulation-strategy rdf:about="https://dbpedia.org/page/SimCity_4">
+         <games:number>8</games:number>
+         <games:abstract>	
+            SimCity 4 is a city-building simulation video game developed by Maxis and published by Electronic Arts. The game was released in 2003 and offers players the opportunity to create and manage their own cities.
+         </games:abstract>        
+         <games:developer>Maxis</games:developer>
+         <games:releaseDate>2003-01-14</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/SimCity_4"/>
+         </games:simulation-strategy>           
+
+         <games:simulation-strategy rdf:about="https://dbpedia.org/page/Anno_1800">
+         <games:number>9</games:number>
+         <games:abstract>	
+            Anno 1800 is a city-building real-time strategy video game developed by Blue Byte and published by Ubisoft. The game was released in 2019 and is set during the Industrial Revolution.
+            Players must build and manage cities, trade, and explore new territories.
+         </games:abstract>        
+         <games:developer>Blue_Byte</games:developer>
+         <games:releaseDate>2019-04-16</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anno_1800"/>
+         </games:simulation-strategy>           
+
+         <games:simulation-strategy rdf:about="https://dbpedia.org/page/The_Settlers_IV">
+         <games:number>10</games:number>
+         <games:abstract>	
+            The Settlers IV is a real-time strategy video game developed by Blue Byte and published by Ubisoft. The game was originally released in 2001 and focuses on city-building and resource management.
+         </games:abstract>        
+         <games:developer>Blue_Byte</games:developer>
+         <games:releaseDate>2001-02-15</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/The_Settlers_IV"/>
+         </games:simulation-strategy>
+</rdf:RDF>

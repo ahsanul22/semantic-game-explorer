@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+<games:sport-racing rdf:about="https://dbpedia.org/page/Forza_Horizon_5">
+         <games:number>1</games:number>
+         <games:abstract>	
+            Forza Horizon 5 is a 2021 racing video game developed by Playground Games and published by Xbox Game Studios. It is the fifth Forza Horizon title and twelfth main instalment in the Forza series. 
+            The game is set in a fictionalised representation of Mexico. It was released on 9 November 2021 for Microsoft Windows, Xbox One, and Xbox Series X/S. The game received critical acclaim and became a commercial success upon release; 
+            it launched to over ten million players in the first week, the biggest-ever launch for an Xbox Game Studios game. The game was nominated for three jury-voted awards at The Game Awards 2021
+         </games:abstract>        
+         <games:developer>Playground_Games</games:developer>
+         <games:releaseDate>2021-11-09</games:releaseDate>
+         <games:platforms>Xbox One, Windows, Xbox Series X</games:platforms>  
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Forza_Horizon_5"/>
+         </games:sport-racing>
+
+         <games:sport-racing rdf:about="https://dbpedia.org/page/Gran_Turismo_7">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Gran Turismo 7 is a racing simulation video game developed by Polyphony Digital and published by Sony Interactive Entertainment. The game is the eighth mainline installment in the Gran Turismo series. 
+            The game was announced on June 11, 2020 at the PlayStation 5 reveal event and was released on March 4, 2022 for PlayStation 4 and PlayStation 5, making it the first multi-console installment in the series. 
+            Gran Turismo 7 received generally favorable reviews from critics, with praise for its graphics and gameplay. Player reception was negative due to its use of microtransactions and excessive grinding</games:abstract>        
+         <games:developer>Polyphony_Digital</games:developer>
+         <games:releaseDate>2010-09-30</games:releaseDate>
+         <games:platforms>Playstation 4, Playstation 5</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Gran_Turismo_7"/>
+         </games:sport-racing>  
+
+         <games:sport-racing rdf:about="https://dbpedia.org/page/Dirt_5">
+         <games:number>5</games:number>
+         <games:abstract>	
+            Dirt 5 is a simcade racing video game developed and published by Codemasters. 
+            The game was released for Microsoft Windows, PlayStation 4 and Xbox One on 6 November 2020, for Xbox Series X/S on 10 November, and for PlayStation 5 on 12 November (for North America, Oceania, Japan, and South Korea) and 19 November (for most other regions), and for Stadia on 24 March 2021. 
+            It was the last video game released by Codemasters as an independent company before acquired by Electronic Arts on 18 February 2021</games:abstract>        
+         <games:developer>Codemasters</games:developer>
+         <games:releaseDate>2020-11-06 </games:releaseDate>
+         <games:platforms>Microsoft Windows, Xbox One, Xbox Series, Playstation 5, Playstation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Dirt_5"/>
+         </games:sport-racing>           
+         
+         <games:sport-racing rdf:about="https://dbpedia.org/page/WRC_10">
+         <games:number>6</games:number>
+         <games:abstract>	
+            WRC 10, also known as WRC 10 FIA World Rally Championship, is a racing video game developed by French developer Kylotonn and published by Nacon. It is a sequel to WRC 9 and is the official game of the 2021 World Rally Championship. 
+            The game was released for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in September 2021, with the Nintendo Switch version released in March 2022</games:abstract>        
+         <games:developer>Kylotonn</games:developer>
+         <games:releaseDate>2021-08-31</games:releaseDate>
+         <games:platforms>Playstation 4, Playstation 5, Nintendo Switch, Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/WRC_10"/>
+         </games:sport-racing>                  
+         
+         <games:sport-racing rdf:about="https://dbpedia.org/page/Assetto_Corsa_Competizione">
+         <games:number>8</games:number>
+         <games:abstract>	
+            The game focuses on GT3 and GT4 cars and is an officially licensed simulation of the 2018 and 2019 Blancpain GT Series season Sprint and Endurance Cups and the Total 24 Hours of Spa, and is set to serve as a platform for esports. 
+            Kunos Simulazioni announced the game on 21 February 2018 with a planned Steam Early Access release in summer 2018. On 27 July 2018, a 12 September 2018 early access release date and a roadmap with monthly updates until a full release in Q1 2019 was revealed at the Total 24 Hours of Spa 2018 SRO press conference.</games:abstract>        
+         <games:developer>Kunos Simulazioni</games:developer>
+         <games:releaseDate>2022-02-24</games:releaseDate>
+         <games:platforms>Playstation 4, Playstation 5, Windows, Xbox One, Xbox Series</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Assetto_Corsa"/>
+         </games:sport-racing>           
+      </rdf:RDF>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Homeworld">
+         <games:number>1</games:number>
+         <games:abstract>	
+            Homeworld is a real-time strategy video game developed by Relic Entertainment and published by Sierra Studios. It was released in 1999 and is known for its space-based sci-fi setting and 3D gameplay.
+            The game's story revolves around a mothership and its fleet traveling through the galaxy.
+         </games:abstract>        
+         <games:developer>Relic_Entertainment</games:developer>
+         <games:releaseDate>1999-09-28</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>  
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Homeworld"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Starcraft_II:_Wings_of_Liberty">
+         <games:number>2</games:number>
+         <games:abstract>	
+            StarCraft II: Wings of Liberty is a science fiction real-time strategy video game developed and published by Blizzard Entertainment. It is the sequel to the 1998 video game StarCraft. 
+            The game includes both new and returning characters and locations from the original game. The game was praised for its engaging single-player campaign and competitive multiplayer mode, making it a significant title in the esports industry.
+         </games:abstract>        
+         <games:developer>Blizzard_Entertainment</games:developer>
+         <games:releaseDate>2010-07-27</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>  
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/XCOM:_Enemy_Unknown">
+         <games:number>3</games:number>
+         <games:abstract>	
+            XCOM: Enemy Unknown is a turn-based tactics video game developed by Firaxis Games and published by 2K Games. The game was released in 2012 and is a reimagining of the classic 1994 strategy game UFO: Enemy Unknown.
+            It features a storyline involving an extraterrestrial invasion.
+         </games:abstract>        
+         <games:developer>Firaxis_Games</games:developer>
+         <games:releaseDate>2012-10-09</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox 360, PlayStation 3</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Halo_Wars">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Halo Wars is a real-time strategy video game set in the Halo science fiction universe. It was developed by Ensemble Studios and published by Microsoft Game Studios. The game was released in 2009.
+            It offers a unique take on the strategy genre within the context of the Halo franchise.
+         </games:abstract>        
+         <games:developer>Ensemble_Studios</games:developer>
+         <games:releaseDate>2009-02-26</games:releaseDate>
+         <games:platforms>Xbox 360, Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Halo_Wars"/>
+         </games:strategy>  
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Sins_of_a_Solar_Empire">
+         <games:number>5</games:number>
+         <games:abstract>	
+            Sins of a Solar Empire is a real-time 4X strategy game developed by Ironclad Games and published by Stardock. The game was released in 2008 and takes place in a futuristic space setting with multiple factions vying for control.
+         </games:abstract>        
+         <games:developer>Ironclad_Games</games:developer>
+         <games:releaseDate>2008-02-04</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sins_of_a_Solar_Empire"/>
+         </games:strategy>           
+         
+         <games:strategy rdf:about="https://dbpedia.org/page/Endless_Space">
+         <games:number>6</games:number>
+         <games:abstract>	
+            Endless Space is a turn-based 4X strategy game developed by Amplitude Studios and published by Iceberg Interactive. The game was released in 2012 and is set in a fictional galaxy with multiple factions.
+            It offers complex space exploration and empire management gameplay.
+         </games:abstract>        
+         <games:developer>Amplitude_Studios</games:developer>
+         <games:releaseDate>2012-07-04</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Endless_Space"/>
+         </games:strategy>           
+         
+         <games:strategy rdf:about="https://dbpedia.org/page/Deus_Ex:_Mankind_Divided">
+         <games:number>7</games:number>
+         <games:abstract>	
+            Deus Ex: Mankind Divided is an action role-playing game with stealth and first-person shooter elements. Developed by Eidos-Montreal and published by Square Enix, the game was released in 2016.
+            It is set in a dystopian cyberpunk future and offers players a mix of story-driven gameplay and strategic choices.
+         </games:abstract>        
+         <games:developer>Eidos-Montreal</games:developer>
+         <games:releaseDate>2016-08-23</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided"/>
+         </games:strategy>           
+         
+         <games:strategy rdf:about="https://dbpedia.org/page/Supreme_Commander">
+         <games:number>8</games:number>
+         <games:abstract>	
+            Supreme Commander is a real-time strategy game developed by Gas Powered Games and published by THQ. The game was released in 2007 and is set in a future where different factions compete for control.
+            It is known for its large-scale battles and strategic depth.
+         </games:abstract>        
+         <games:developer>Gas_Powered_Games</games:developer>
+         <games:releaseDate>2007-02-20</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Supreme_Commander"/>
+         </games:strategy>           
+         
+         <games:strategy rdf:about="https://dbpedia.org/page/Stellaris">
+         <games:number>9</games:number>
+         <games:abstract>	
+            Stellaris is a grand strategy game developed by Paradox Development Studio and published by Paradox Interactive. The game was released in 2016 and is set in space.
+            It focuses on empire building, exploration, and diplomacy in a sci-fi context.
+         </games:abstract>        
+         <games:developer>Paradox_Development_Studio</games:developer>
+         <games:releaseDate>2016-05-09</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Stellaris"/>
+         </games:strategy>           
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Alpha_Centauri">
+         <games:number>10</games:number>
+         <games:abstract>	
+            Sid Meier's Alpha Centauri is a 4X strategy game developed by Firaxis Games and published by Electronic Arts. The game was released in 1999 and is set in the future on an alien planet.
+            It combines science fiction storytelling with strategy gameplay.
+         </games:abstract>        
+         <games:developer>Firaxis_Games</games:developer>
+         <games:releaseDate>1999-02-12</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alpha_Centauri"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Cities:_Skylines">
+         <games:number>2</games:number>
+         <games:abstract>	
+            Cities: Skylines is a city-building simulation game developed by Colossal Order and published by Paradox Interactive. The game was released in 2015 and offers players the opportunity to design and manage their own cities.
+            It is known for its extensive modding community and support for user-generated content.
+         </games:abstract>        
+         <games:developer>Colossal_Order</games:developer>
+         <games:releaseDate>2015-03-10</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Cities:_Skylines"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Planet_Coaster">
+         <games:number>3</games:number>
+         <games:abstract>	
+            Planet Coaster is a construction and management simulation video game developed and published by Frontier Developments. The game was released in 2016 and allows players to design and manage their own theme parks.
+            It is known for its detailed customization options and creative possibilities.
+         </games:abstract>        
+         <games:developer>Frontier_Developments</games:developer>
+         <games:releaseDate>2016-11-17</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Planet_Coaster"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Flight_Simulator_X">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Microsoft Flight Simulator X is a flight simulation video game developed by Microsoft Game Studios and ACES Studio. The game was originally released in 2006 and offers players the chance to pilot a wide variety of aircraft in realistic environments.
+         </games:abstract>        
+         <games:developer>Microsoft_Game_Studios</games:developer>
+         <games:releaseDate>2006-10-17</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_X"/>
+         </games:strategy>  
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Two_Point_Hospital">
+         <games:number>5</games:number>
+         <games:abstract>	
+            Two Point Hospital is a business simulation video game developed by Two Point Studios and published by Sega. The game was released in 2018 and allows players to manage and operate their own healthcare facilities.
+            It combines humor with strategic management gameplay.
+         </games:abstract>        
+         <games:developer>Two_Point_Studios</games:developer>
+         <games:releaseDate>2018-08-30</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Two_Point_Hospital"/>
+         </games:strategy>           
+         
+         <games:strategy rdf:about="https://dbpedia.org/page/The_Escapists_2">
+         <games:number>6</games:number>
+         <games:abstract>	
+            The Escapists 2 is a strategy role-playing video game developed by Mouldy Toof Studios and published by Team17. The game was released in 2017 and is set in a prison environment.
+            Players must plan and execute prison escapes while dealing with daily routines.
+         </games:abstract>        
+         <games:developer>Mouldy_Toof_Studios</games:developer>
+         <games:releaseDate>2017-08-22</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/The_Escapists_2"/>
+         </games:strategy>           
+         
+         <games:strategy rdf:about="https://dbpedia.org/page/RollerCoaster_Tycoon">
+         <games:number>7</games:number>
+         <games:abstract>	
+            RollerCoaster Tycoon is a construction and management simulation video game developed by Chris Sawyer Productions and published by Hasbro Interactive. The game was originally released in 1999.
+            Players can design and operate their own amusement parks, including creating custom roller coasters.
+         </games:abstract>        
+         <games:developer>Chris_Sawyer_Productions</games:developer>
+         <games:releaseDate>1999-03-31</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/RollerCoaster_Tycoon"/>
+         </games:strategy>           
+         
+         <games:strategy rdf:about="https://dbpedia.org/page/SimCity_4">
+         <games:number>8</games:number>
+         <games:abstract>	
+            SimCity 4 is a city-building simulation video game developed by Maxis and published by Electronic Arts. The game was released in 2003 and offers players the opportunity to create and manage their own cities.
+         </games:abstract>        
+         <games:developer>Maxis</games:developer>
+         <games:releaseDate>2003-01-14</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/SimCity_4"/>
+         </games:strategy>           
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Anno_1800">
+         <games:number>9</games:number>
+         <games:abstract>	
+            Anno 1800 is a city-building real-time strategy video game developed by Blue Byte and published by Ubisoft. The game was released in 2019 and is set during the Industrial Revolution.
+            Players must build and manage cities, trade, and explore new territories.
+         </games:abstract>        
+         <games:developer>Blue_Byte</games:developer>
+         <games:releaseDate>2019-04-16</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Anno_1800"/>
+         </games:strategy>           
+
+         <games:strategy rdf:about="https://dbpedia.org/page/The_Settlers_IV">
+         <games:number>10</games:number>
+         <games:abstract>	
+            The Settlers IV is a real-time strategy video game developed by Blue Byte and published by Ubisoft. The game was originally released in 2001 and focuses on city-building and resource management.
+         </games:abstract>        
+         <games:developer>Blue_Byte</games:developer>
+         <games:releaseDate>2001-02-15</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/The_Settlers_IV"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/StarCraft_II:_Wings_of_Liberty">
+         <games:number>1</games:number>
+         <games:abstract>	
+            StarCraft II: Wings of Liberty is a science fiction real-time strategy video game developed and published by Blizzard Entertainment. It is the sequel to the 1998 video game StarCraft. 
+            The game includes both new and returning characters and locations from the original game. The game was praised for its engaging single-player campaign and competitive multiplayer mode, making it a significant title in the esports industry.
+         </games:abstract>        
+         <games:developer>Blizzard_Entertainment</games:developer>
+         <games:releaseDate>2010-07-27</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>  
+         <foaf:isPrimaryTopicOf rdf:resource="https://starcraft2.com/"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Warcraft_III:_Reign_of_Chaos">
+         <games:number>2</games:number>
+         <games:abstract>	
+            Warcraft III: Reign of Chaos is a high fantasy real-time strategy video game developed and published by Blizzard Entertainment, and was released in July 2002. 
+            It is the second sequel to Warcraft: Orcs and Humans and the third game set in the Warcraft fictional universe. An expansion pack, The Frozen Throne, was released in July 2003.
+         </games:abstract>        
+         <games:developer>Blizzard_Entertainment</games:developer>
+         <games:releaseDate>2002-07-03</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Total_War:_Three_Kingdoms">
+         <games:number>3</games:number>
+         <games:abstract>	
+            Total War: Three Kingdoms is a turn-based strategy real-time tactics video game developed by Creative Assembly and published by Sega. As the 12th mainline entry in the Total War series, the game was released for Microsoft Windows in May 2019.
+         </games:abstract>        
+         <games:developer>Creative_Assembly</games:developer>
+         <games:releaseDate>2019-05-23</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Total_War:_Three_Kingdoms"/>
+         </games:strategy>
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Company_of_Heroes">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Company of Heroes is a real-time strategy video game developed by Relic Entertainment and published by THQ. It was released for Microsoft Windows in September 2006. The game is set during World War II and contains two playable factions.
+         </games:abstract>        
+         <games:developer>Relic_Entertainment</games:developer>
+         <games:releaseDate>2006-09-11</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Company_of_Heroes"/>
+         </games:strategy>  
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Age_of_Empires_II">
+         <games:number>5</games:number>
+         <games:abstract>	
+            Age of Empires II: The Age of Kings is a real-time strategy video game developed by Ensemble Studios and published by Microsoft. 
+            It was released for Microsoft Windows in September 1999 and is the second game in the Age of Empires series. The game is set in the Middle Ages and features a historical setting and campaign.
+         </games:abstract>        
+         <games:developer>Ensemble_Studios</games:developer>
+         <games:releaseDate>1999-09-30</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Age_of_Empires_II"/>
+         </games:strategy>           
+         
+         <games:strategy rdf:about="https://dbpedia.org/page/Empire:_Total_War">
+         <games:number>6</games:number>
+         <games:abstract>	
+            Empire: Total War is a turn-based strategy and real-time tactics video game developed by Creative Assembly and published by Sega. 
+            It was released for Microsoft Windows in March 2009. The game is set in the 18th century and features a global map for players to manage their empires.
+         </games:abstract>        
+         <games:developer>Creative_Assembly</games:developer>
+         <games:releaseDate>2009-03-03</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Empire:_Total_War"/>
+         </games:strategy>                   
+         
+         <games:strategy rdf:about="https://dbpedia.org/page/Starcraft">
+         <games:number>8</games:number>
+         <games:abstract>	
+            StarCraft is a military science fiction media franchise created by Chris Metzen and James Phinney and owned by Blizzard Entertainment. 
+            The series, set in the beginning of the 26th century, centers on a galactic struggle for dominance among four species—the adaptable and mobile Terrans, the ever-evolving insectoid Zerg, the powerfully enigmatic Protoss, and the "god-like" Xel'Naga creator races—in two separate subseries.
+         </games:abstract>        
+         <games:developer>Blizzard_Entertainment</games:developer>
+         <games:releaseDate>1998-03-31</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/StarCraft"/>
+         </games:strategy>                 
+
+         <games:strategy rdf:about="https://dbpedia.org/page/Rise_of_Nations">
+         <games:number>10</games:number>
+         <games:abstract>	
+            Rise of Nations is a real-time strategy video game developed by Big Huge Games and published by Microsoft Game Studios. 
+            The game was released in May 2003. It combines elements from both traditional real-time strategy games and turn-based strategy games.
+         </games:abstract>        
+         <games:developer>Big_Huge_Games</games:developer>
+         <games:releaseDate>2003-05-20</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Rise_of_Nations"/>
+         </games:strategy>
+</rdf:RDF>

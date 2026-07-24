@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+
+    <games:RPG-adventure rdf:about="https://dbpedia.org/page/Hogwarts_Legacy">
+    <games:number>1</games:number>
+    <games:abstract>Hogwarts Legacy is an upcoming action role-playing game, developed by Avalanche Software and published by Warner Bros. Interactive Entertainment under its Portkey Games label. The game is set in the Wizarding World universe, based on the Harry Potter novels and film series including Fantastic Beasts. Hogwarts Legacy is scheduled to be released on February 10, 2023, for Windows, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S. The release date for Nintendo Switch will be revealed at a later date.</games:abstract>
+    <games:developer>Avalanche_Software</games:developer>
+    <games:releaseDate>2023-02-10</games:releaseDate>
+    <games:platforms>Nintendo_Switch, PS4, PS5, Windows, Xbox_One, Xbox_Series</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hogwarts_Legacy"/>
+    </games:RPG-adventure>
+    
+    <games:RPG-adventure rdf:about="https://dbpedia.org/page/GreedFall">
+    <games:number>2</games:number>
+    <games:abstract>GreedFall is an action role-playing game developed by Spiders and published by Focus Home Interactive. The game is set in an early 18th century-styled fantasy setting and was released for Microsoft Windows, PlayStation 4, and Xbox One on September 10, 2019, and subsequently in a graphically uplifted version for PlayStation 5 and Xbox Series X/S on June 30, 2021. GreedFall was met with a mixed critical reception. A sequel is currently in development.</games:abstract>
+    <games:developer>Spiders(company)</games:developer>
+    <games:releaseDate>2019-09-10</games:releaseDate>
+    <games:platforms>Microsoft_Windows, PlayStation_4, Playstation_5, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/GreedFall"/>
+    </games:RPG-adventure>
+    
+    <games:RPG-adventure rdf:about="https://dbpedia.org/page/Pathfinder:_Kingmaker">
+    <games:number>3</games:number>
+    <games:abstract>Pathfinder: Kingmaker is an isometric role-playing game developed by Cypriot studio Owlcat Games and published by Deep Silver, based on Paizo Publishing's Pathfinder franchise. Announced through a Kickstarter campaign in 2017, the game was released for Microsoft Windows, macOS, and Linux on 25 September 2018.</games:abstract>
+    <games:developer>Owlcat_Games</games:developer>
+    <games:releaseDate>2018-09-25, 2020-08-18</games:releaseDate>
+    <games:platforms>PlayStation_4, Xbox_One, Linux, macOS, Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Pathfinder:_Kingmaker"/>
+    </games:RPG-adventure>
+    
+    <games:RPG-adventure rdf:about="https://dbpedia.org/page/Ark:_Survival_Evolved">
+    <games:number>4</games:number>
+    <games:abstract>Ark: Survival Evolved (stylized as ARK) is a 2017 action-adventure survival video game developed by Studio Wildcard. In the game, players must survive being stranded on one of several maps filled with roaming dinosaurs, fictional fantasy monsters, and other prehistoric animals, natural hazards, and potentially hostile human players. The game is played from either a third-person or first-person perspective and its open world is navigated by foot or by riding a prehistoric animal. Players can use firearms and improvised weapons to defend against hostile humans and creatures, with the ability to build bases as a defense on the ground and on some creatures. The game has both single-player and multiplayer options. Multiplayer allows the option to form tribes of Players in a server. The max number of tribe mates varies from each server. In this mode, all tamed dinosaurs and building structures are usually shared between the members. There is a PvE mode where players cannot fight each other unless a specific war even agreed upon by both parties is triggered. Development began in October 2014, when it was first released on PC as an early access title in the middle of 2015. The development team conducted research into the physical appearance of the animals but took a creative license for gameplay purposes. Instinct Games, Efecto Studios, and Virtual Basement were hired to facilitate the game's development. The game was officially released in August 2017 for PlayStation 4, Xbox One, Microsoft Windows, OS X and Linux, with versions for Android, iOS, and Nintendo Switch in 2018, a version for Stadia in 2021, and a second, separate Nintendo Switch version in 2022. Ark: Survival Evolved received generally mixed reviews, with criticism for its "punishing" difficulty, reliance on grinding, and performance issues, particularly on the original Nintendo Switch version. Several expansions to the game have been released as downloadable content. The game received two spin-off games in March 2018—virtual reality game Ark Park and sandbox survival game PixArk—and two companion apps: A-Calc in October 2015, and Dododex in August 2017. </games:abstract>
+    <games:developer>Studio_Wildcard</games:developer>
+    <games:releaseDate>2017-08-29, 2018-06-14, 2018-11-30, 2021-09-01</games:releaseDate>
+    <games:platforms>Google_Stadia, Android, Linux, MacOS, Nintendo_Switch, PlayStation_4, IOS, Microsoft_Windows, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ark:_Survival_Evolved"/>
+    </games:RPG-adventure>
+    
+    <games:RPG-adventure rdf:about="https://dbpedia.org/page/Lords_of_the_Fallen">
+    <games:number>5</games:number>
+    <games:abstract>Lords of the Fallen is an action role-playing video game developed by Deck13 and CI Games. It was released in October 2014 for PlayStation 4, Xbox One, and Microsoft Windows. A mobile version of the game, which features one-to-one swipe combat controls, was released on 9 February 2017 for iOS and Android, as a paid game with in-app purchases. Players journey through mysterious, large interconnected environments, battling beastly, disfigured enemies, including bosses, using melee weapons, such as axes and hammers. Players control Harkyn as he is sent on a mission to stop a powerful god's mysterious demonic forces as they invade the world to reclaim it after being dethroned.</games:abstract>
+    <games:developer>Deck13, CI_Games</games:developer>
+    <games:releaseDate>2014-10-28</games:releaseDate>
+    <games:platforms>Android, PlayStation_4, IOS, Microsoft_Windows, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Lords_of_the_Fallen"/>
+    </games:RPG-adventure>
+    
+    <games:RPG-adventure rdf:about="https://dbpedia.org/page/Valheim">
+    <games:number>6</games:number>
+    <games:abstract>Valheim is an upcoming survival and sandbox video game by the Swedish developer Iron Gate Studio and published by Coffee Stain Studios. It was released in early access on 2 February 2021 for Linux and Windows via Steam, and is set to be released for Xbox One and Xbox Series X/S in 2023. The game was developed by a five-person team, building on development work which Richard Svensson had undertaken as a side project in his spare time. Since its early access release, Valheim has achieved both critical and commercial success, being praised as a ″rare exception″ of a refined early access game. A month after its release, it had sold over five million copies and was one of the most played games on Steam.</games:abstract>
+    <games:developer>Iron_Gate_Studio</games:developer>
+    <games:releaseDate>2021-02-02</games:releaseDate>
+    <games:platforms>Windows, Xbox_One, Xbox_Series_X/S</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Valheim"/>
+    </games:RPG-adventure>
+    
+    <games:RPG-adventure rdf:about="https://dbpedia.org/page/Kingdom_Come:_Deliverance">
+    <games:number>7</games:number>
+    <games:abstract>Kingdom Come: Deliverance is a 2018 action role-playing video game developed and published by Warhorse Studios and co-published by Deep Silver for Microsoft Windows, PlayStation 4, and Xbox One. It is set in the medieval Kingdom of Bohemia, an Imperial State of the Holy Roman Empire, with a focus on historically accurate content. The story takes place during a war in Bohemia in 1403, in the times of King Wenceslaus IV. On the orders of Hungarian king Sigismund, half-brother of Wenceslaus, Cuman mercenaries raid the mining village of Skalitz, a major source of silver. One of the survivors of the resulting massacre is Henry, the son of a blacksmith. Destitute and vengeful, Henry joins the service of Lord Radzig Kobyla, who leads a resistance movement against Sigismund's invasion. As Henry pursues justice for his murdered family, he becomes involved in an effort to restore Bohemia's rightful king and Sigismund's half-brother, Wenceslaus IV, to the throne. The game features branching quest lines, an open world environment, and period-accurate weapons, clothing, combat techniques, and architecture (recreated with the assistance of architects and historians), which encourages immersive gameplay. The game received generally positive reviews. Critics praised the story, attention to detail, and focus on realism, while criticism was aimed at technical bugs.</games:abstract>
+    <games:developer>Warhorse_Studio</games:developer>
+    <games:releaseDate>2018-02-13</games:releaseDate>
+    <games:platforms>Amazon_Luna, Nintendo_Switch, PlayStation_4, Microsoft_Windows, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kingdom_Come:_Deliverance"/>
+    </games:RPG-adventure>
+    
+    <games:RPG-adventure rdf:about="https://dbpedia.org/page/Divinity:_Original_Sin_II">
+    <games:number>9</games:number>
+    <games:abstract>Divinity: Original Sin II is a role-playing video game developed and published by Larian Studios. The sequel to 2014's Divinity: Original Sin, it was released for Microsoft Windows in September 2017, for PlayStation 4 and Xbox One in August 2018, for macOS in January 2019, Nintendo Switch in September 2019, and iPadOS in May 2021. The game was a critical and commercial success, with it selling over a million copies in two months and being cited as one of the best role-playing games of all time, with praise given to its combat complexity and interactivity.</games:abstract>
+    <games:developer>Larian_Studios</games:developer>
+    <games:releaseDate>2017-09-14</games:releaseDate>
+    <games:platforms>MacOS, Nintendo_Switch, PlayStation_4, iPadOS, Microsoft_Windows, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Divinity:_Original_Sin_II"/>
+    </games:RPG-adventure>
+    
+    <games:RPG-adventure rdf:about="https://dbpedia.org/page/Pillars_of_Eternity">
+    <games:number>10</games:number>
+    <games:abstract>Pillars of Eternity is a role-playing video game developed by Obsidian Entertainment and published by Paradox Interactive. It was released for Microsoft Windows, OS X, and Linux on March 26, 2015. The game is a spiritual successor to the Baldur's Gate and Icewind Dale series, along with Planescape: Torment. Obsidian started a crowdfunding campaign on Kickstarter for it in September 2012. The campaign raised over US$4 million, which was the highest funded video game at the time. The game uses the Unity engine. The game takes place in the fantasy world of Eora, mainly inside the nation of Dyrwood. The infants in the Dyrwood are plagued by a recent phenomenon in which they become "hollowborn" upon birth, meaning they are born with no soul. During the beginning of the game, the protagonist experiences an awakening of power due to a disastrous supernatural event, discovering they are a "Watcher": a person who can see past lives and interact with souls. The objective of the game is to find out what caused their awakening and how to solve the hollowborn problem. Pillars of Eternity received critical acclaim upon its release; many critics praised the game for its world and immersive writing, along with the strategic combat, and also said that it is a worthy successor to the games it was inspired by. The game also won various awards and accolades, including best RPG of 2015. A two-part expansion pack, The White March was released in August 2015 and February 2016, respectively. A sequel, Pillars of Eternity II: Deadfire, was released in May 2018.</games:abstract>
+    <games:developer>Obsidian_Entertainment</games:developer>
+    <games:releaseDate>2015-03-26, 2017-08-29, 2019-08-08</games:releaseDate>
+    <games:platforms>Linux, Nintendo_Switch, PlayStation_4, Microsoft_Windows, OS_X, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Pillars_of_Eternity"/>
+    </games:RPG-adventure>
+    </rdf:RDF>

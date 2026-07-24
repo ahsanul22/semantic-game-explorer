@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/Homeworld">
+         <games:number>1</games:number>
+         <games:abstract>	
+            Homeworld is a real-time strategy video game developed by Relic Entertainment and published by Sierra Studios. It was released in 1999 and is known for its space-based sci-fi setting and 3D gameplay.
+            The game's story revolves around a mothership and its fleet traveling through the galaxy.
+         </games:abstract>        
+         <games:developer>Relic_Entertainment</games:developer>
+         <games:releaseDate>1999-09-28</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>  
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Homeworld"/>
+         </games:scifi-strategy>
+
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/Starcraft_II:_Wings_of_Liberty">
+         <games:number>2</games:number>
+         <games:abstract>	
+            StarCraft II: Wings of Liberty is a science fiction real-time strategy video game developed and published by Blizzard Entertainment. It is the sequel to the 1998 video game StarCraft. 
+            The game includes both new and returning characters and locations from the original game. The game was praised for its engaging single-player campaign and competitive multiplayer mode, making it a significant title in the esports industry.
+         </games:abstract>        
+         <games:developer>Blizzard_Entertainment</games:developer>
+         <games:releaseDate>2010-07-27</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>  
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty"/>
+         </games:scifi-strategy>
+
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/XCOM:_Enemy_Unknown">
+         <games:number>3</games:number>
+         <games:abstract>	
+            XCOM: Enemy Unknown is a turn-based tactics video game developed by Firaxis Games and published by 2K Games. The game was released in 2012 and is a reimagining of the classic 1994 strategy game UFO: Enemy Unknown.
+            It features a storyline involving an extraterrestrial invasion.
+         </games:abstract>        
+         <games:developer>Firaxis_Games</games:developer>
+         <games:releaseDate>2012-10-09</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox 360, PlayStation 3</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/XCOM:_Enemy_Unknown"/>
+         </games:scifi-strategy>
+
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/Halo_Wars">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Halo Wars is a real-time strategy video game set in the Halo science fiction universe. It was developed by Ensemble Studios and published by Microsoft Game Studios. The game was released in 2009.
+            It offers a unique take on the strategy genre within the context of the Halo franchise.
+         </games:abstract>        
+         <games:developer>Ensemble_Studios</games:developer>
+         <games:releaseDate>2009-02-26</games:releaseDate>
+         <games:platforms>Xbox 360, Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Halo_Wars"/>
+         </games:scifi-strategy>  
+
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/Sins_of_a_Solar_Empire">
+         <games:number>5</games:number>
+         <games:abstract>	
+            Sins of a Solar Empire is a real-time 4X strategy game developed by Ironclad Games and published by Stardock. The game was released in 2008 and takes place in a futuristic space setting with multiple factions vying for control.
+         </games:abstract>        
+         <games:developer>Ironclad_Games</games:developer>
+         <games:releaseDate>2008-02-04</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sins_of_a_Solar_Empire"/>
+         </games:scifi-strategy>           
+         
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/Endless_Space">
+         <games:number>6</games:number>
+         <games:abstract>	
+            Endless Space is a turn-based 4X strategy game developed by Amplitude Studios and published by Iceberg Interactive. The game was released in 2012 and is set in a fictional galaxy with multiple factions.
+            It offers complex space exploration and empire management gameplay.
+         </games:abstract>        
+         <games:developer>Amplitude_Studios</games:developer>
+         <games:releaseDate>2012-07-04</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Endless_Space"/>
+         </games:scifi-strategy>           
+         
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/Deus_Ex:_Mankind_Divided">
+         <games:number>7</games:number>
+         <games:abstract>	
+            Deus Ex: Mankind Divided is an action role-playing game with stealth and first-person shooter elements. Developed by Eidos-Montreal and published by Square Enix, the game was released in 2016.
+            It is set in a dystopian cyberpunk future and offers players a mix of story-driven gameplay and strategic choices.
+         </games:abstract>        
+         <games:developer>Eidos-Montreal</games:developer>
+         <games:releaseDate>2016-08-23</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS, Xbox One, PlayStation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided"/>
+         </games:scifi-strategy>           
+         
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/Supreme_Commander">
+         <games:number>8</games:number>
+         <games:abstract>	
+            Supreme Commander is a real-time strategy game developed by Gas Powered Games and published by THQ. The game was released in 2007 and is set in a future where different factions compete for control.
+            It is known for its large-scale battles and strategic depth.
+         </games:abstract>        
+         <games:developer>Gas_Powered_Games</games:developer>
+         <games:releaseDate>2007-02-20</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Supreme_Commander"/>
+         </games:scifi-strategy>           
+         
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/Stellaris">
+         <games:number>9</games:number>
+         <games:abstract>	
+            Stellaris is a grand strategy game developed by Paradox Development Studio and published by Paradox Interactive. The game was released in 2016 and is set in space.
+            It focuses on empire building, exploration, and diplomacy in a sci-fi context.
+         </games:abstract>        
+         <games:developer>Paradox_Development_Studio</games:developer>
+         <games:releaseDate>2016-05-09</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Stellaris"/>
+         </games:scifi-strategy>           
+
+         <games:scifi-strategy rdf:about="https://dbpedia.org/page/Alpha_Centauri">
+         <games:number>10</games:number>
+         <games:abstract>	
+            Sid Meier's Alpha Centauri is a 4X strategy game developed by Firaxis Games and published by Electronic Arts. The game was released in 1999 and is set in the future on an alien planet.
+            It combines science fiction storytelling with strategy gameplay.
+         </games:abstract>        
+         <games:developer>Firaxis_Games</games:developer>
+         <games:releaseDate>1999-02-12</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Alpha_Centauri"/>
+         </games:scifi-strategy>
+</rdf:RDF>

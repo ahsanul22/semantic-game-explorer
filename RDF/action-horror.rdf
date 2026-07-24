@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+    <games:action-horror rdf:about="https://dbpedia.org/page/Silent_Hill_2">
+    <games:number>1</games:number>
+    <games:abstract>	
+    Silent Hill 2 is a 2001 survival horror game developed by Team Silent, a group in Konami Computer Entertainment Tokyo, and published by Konami. The game was released from September to November, originally for the PlayStation 2. The second installment in the Silent Hill series, Silent Hill 2 centres on James Sunderland, a widower who journeys to the town of Silent Hill after receiving a letter from his dead wife informing him that she is waiting there for him. An extended version containing an extra bonus scenario, Born from a Wish, and other additions was published for Xbox in December of the same year. In 2002, it was ported to Microsoft Windows and re-released on PlayStation 2 as a Greatest Hits version, which includes all bonus content from the Xbox port. A remastered high-definition version was released for the PlayStation 3 and Xbox 360 in 2012 as part of the Silent Hill HD Collection. Work on Silent Hill 2 began in June 1999, soon after Silent Hill had been completed. Its narrative was inspired by the Russian novel Crime and Punishment (1866) by Fyodor Dostoevsky, and some of the influences on the game's artistic style include the work of film directors Adrian Lyne (specifically Jacob's Ladder), David Lynch, among others, as well as painters like Francis Bacon and Andrew Wyeth; cultural references to history, films and literature can be found in the game. In contrast with the previous title, whose narrative concerned cult activity, Silent Hill 2 focuses directly on the psychology of its characters. Silent Hill 2 received critical acclaim. Within the month of its release in North America, Japan, and Europe, over one million copies were sold, with the greatest number of sales in North America. During release, it was widely praised for its psychological horror story, use of metaphors, symbolism, and taboo topics, overall atmosphere, graphics, monster designs, soundtrack and sound design. However, it received criticism for its controls and voice acting. It is often considered to be one of the greatest horror games ever made and among the greatest video games of all time, as well as a key example of video games as an art form. The game was followed by Silent Hill 3 in 2003. A remake was announced in October 2022.    </games:abstract>
+    <games:developer>Team_Silent</games:developer>
+    <games:releaseDate>2001-09-24</games:releaseDate>
+    <games:platforms>PlayStation_2, Microsoft_Windows, Xbox_(console)</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Silent_Hill_2"/>
+    </games:action-horror>
+
+    <games:action-horror rdf:about="https://dbpedia.org/page/Until_Dawn">
+    <games:number>2</games:number>
+    <games:abstract>	
+    Until Dawn is a 2015 interactive drama horror video game developed by Supermassive Games and published by Sony Computer Entertainment for the PlayStation 4. Players assume control of eight young adults who have to survive on Blackwood Mountain when their lives are threatened. The game features a butterfly effect system in which players must make choices that may change the story. All playable characters can survive or die, depending on the choices made. Players explore the environment from a third-person perspective and find clues that may help solve the mystery. The game was originally planned as a first-person game for the PlayStation 3's motion controller PlayStation Move. The motion controls were dropped when it became a PlayStation 4 game. The story was written by Larry Fessenden and Graham Reznick, who sought to create the video game equivalent of a slasher film. The development team took inspiration from various sources. These include the movies Evil Dead II and Poltergeist, and video games Heavy Rain, Resident Evil, and Silent Hill. To ensure the game was scary, the team used a galvanic skin response test to measure playtesters' fear levels when playing it. Jason Graves composed the soundtrack and Guerrilla Games' Decima game engine was used for the graphics. Several noted actors, including Rami Malek, Hayden Panettiere, Meaghan Martin, Brett Dalton, Jordan Fisher, Nichole Bloom, and Peter Stormare, provided motion capture and voice acting. Until Dawn was announced at Gamescom 2012 and released in August 2015. Although there was little marketing effort from Sony, its sales surpassed expectations. The game received generally positive reviews, and was nominated for multiple year-end accolades. Critics praised the branching nature of the story, butterfly effect system, world building, characters, and use of quick time events, but criticised the controls. Supermassive followed the game with a virtual reality spin-off, Until Dawn: Rush of Blood (2016), and a prequel, The Inpatient (2018), while a spiritual successor, The Quarry, was released in 2022.     </games:abstract>
+    <games:developer>Supermassive_Games</games:developer>
+    <games:releaseDate>2015-08-25</games:releaseDate>
+    <games:platforms>PlayStation_4</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Until_Dawn"/>
+    </games:action-horror>
+
+    <games:action-horror rdf:about="https://dbpedia.org/page/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl">
+    <games:number>5</games:number>
+    <games:abstract>	
+    S.T.A.L.K.E.R.: Shadow of Chernobyl is a first-person shooter survival horror video game developed by GSC Game World and published by THQ in 2007 following a long development. The game is set in an alternative reality, where a second disaster of mysterious origin occurred at the Chernobyl Exclusion Zone, causing strange changes in the area around it. The game features a non-linear storyline and includes role-playing gameplay elements such as trading and two-way communication with non-player characters. In the game, the player assumes the identity of the Marked One, an amnesiac man trying to find and kill the mysterious Strelok within the Zone, a forbidden territory surrounding the Chernobyl Nuclear Power Plant. It is set after a fictitious second Chernobyl disaster, which further contaminated the surrounding area with radiation, and caused strange otherworldly changes in local fauna, flora, and the laws of physics. The background and some terminology of the game are borrowed from the Russian novella Roadside Picnic and its film adaptation Stalker. A prequel, S.T.A.L.K.E.R.: Clear Sky, was released in 2008. A sequel, S.T.A.L.K.E.R.: Call of Pripyat, followed in 2010. There are also multiple fan remakes trying to restore the cut content from the original version of the game like S.T.A.L.K.E.R.: Oblivion Lost Remake.    </games:abstract>
+    <games:developer>GSC_Game_World</games:developer>
+    <games:releaseDate>2007-03-20</games:releaseDate>
+    <games:platforms>Microsoft_Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl"/>
+    </games:action-horror>
+
+    <games:action-horror rdf:about="https://dbpedia.org/page/Left_4_Dead_2">
+    <games:number>6</games:number>
+    <games:abstract>	
+    Left 4 Dead 2 is a 2009 first-person shooter game developed and published by Valve. The sequel to Turtle Rock Studios's Left 4 Dead (2008) and the second game in the Left 4 Dead series, it was released for Microsoft Windows and Xbox 360 in November 2009, Mac OS X in October 2010, and Linux in July 2013. Left 4 Dead 2 builds upon cooperatively focused gameplay and Valve's proprietary Source engine, the same game engine used in the original Left 4 Dead. Set during the aftermath of an apocalyptic pandemic, the game focuses on four new Survivors, fighting against hordes of zombies known as the Infected, who develop severe psychosis and act extremely aggressive. The Survivors must fight their way through five campaigns, interspersed with safe houses that act as checkpoints, with the goal of escape at each campaign's finale. The gameplay is procedurally altered by the "AI Director 2.0", which monitors the players' performance and adjusts the scenario to provide a dynamic challenge. Other new features include new types of special infected and an arsenal of melee weapons. The game made its world premiere at E3 2009 with a trailer during the Microsoft press event. Prior to release, it received mixed critical and community reactions, and attracted an unusually high volume of controversy about its graphic content. In response, alterations were made to the cover art, but both Australia and Germany refused to rate the unmodified edition at the time of release. Despite this, the game was met with positive critical reviews, and is considered to be one of the greatest video games ever made.    </games:abstract>
+    <games:developer>Valve_Corporation</games:developer>
+    <games:releaseDate>2009-11-17, 2010-10-05, 2013-07-02</games:releaseDate>
+    <games:platforms>Microsoft Windows, Xbox 360, Mac OS X, Linux</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Left_4_Dead_2"/>
+    </games:action-horror>
+
+    <games:action-horror rdf:about="https://dbpedia.org/page/Condemned:_Criminal_Origins">
+    <games:number>7</games:number>
+    <games:abstract>	
+    Condemned: Criminal Origins is a first-person survival horror video game developed by Monolith Productions and published by Sega. It was released worldwide in 2005 on the Xbox 360, with a Microsoft Windows version released in 2006. With the developer citing films such as The Silence of the Lambs, Seven and Saw as inspiration, the game places an emphasis on melee combat and puzzle solving, including searching for fingerprints and gathering evidence. Upon release, Condemned was met with generally positive reviews by players and critics. Many reviewers cited its storyline and lack of progression as the game's biggest faults, while its solid controls, gameplay and fresh approach to horror were praised. A sequel, Condemned 2: Bloodshot, was released in 2008 for the Xbox 360 and PlayStation 3. There was also an internet prequel and a planned film adaptation to expand the Condemned franchise    </games:abstract>
+    <games:developer>Monolith_Productions</games:developer>
+    <games:releaseDate>2005-11-22</games:releaseDate>
+    <games:platforms>Microsoft_Windows, Xbox_360</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Condemned:_Criminal_Origins"/>
+    </games:action-horror>
+
+    <games:action-horror rdf:about="https://dbpedia.org/page/The_Evil_Within_2">
+    <games:number>9</games:number>
+    <games:abstract>	
+    The Evil Within 2 is a survival horror video game developed by Tango Gameworks and published by Bethesda Softworks for Microsoft Windows, PlayStation 4 and Xbox One. It was released worldwide in October 2017 and is the sequel to 2014's The Evil Within. The game received generally positive reviews; like its predecessor, it received praise for its visuals, atmosphere and gameplay but received some criticism for its story and characters.    </games:abstract>
+    <games:developer>Tango_Gameworks</games:developer>
+    <games:releaseDate>2017-10-13</games:releaseDate>
+    <games:platforms>PlayStation_4, Microsoft_Windows, Xbox_One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/The_Evil_Within_2"/>
+    </games:action-horror>
+
+    <games:action-horror rdf:about="https://dbpedia.org/page/Alone_in_the_Dark">
+    <games:number>10</games:number>
+    <games:abstract>	
+    Alone in the Dark is a survival horror video game series originally developed by Infogrames. In most of the games, the player controls private investigator Edward Carnby, who goes to investigate a haunted house or town that is full of undead creatures. The series, particularly for its debut game, is widely acknowledged as an early instance of survival horror video games and is often credited with the creation of the genre. The original story was based on the writings of H. P. Lovecraft; later games in the series drew inspiration from other sources including voodoo, the Wild West, and the works of H. R. Giger. Six installments of the series have been created, with various themes and locations. Two comic books and two films were created based upon the games. In September 2018, Atari SA sold the Alone in the Dark franchise to THQ Nordic.    </games:abstract>
+    <games:developer>Darkworks,Eden_Games, Infogrames, Krisalis_Software, Hydravision Entertainment, Pieces Interactive, Pocket Studios, Pure FPS, Spiral House</games:developer>
+    <games:releaseDate>1992-12-25</games:releaseDate>
+    <games:platforms>Classic_Mac_OS, Game_Boy_Color, MS-DOS, Wii, Dreamcast, FM_Towns, PC-9800_series, PlayStation_(console), PlayStation_2, PlayStation_3, PlayStation_5, IOS, Microsoft_Windows, RISC_OS, Sega_Saturn, Xbox_360, Xbox_Series_X_and_Series_S
+    </games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Alone_in_the_Dark"/>
+    </games:action-horror>
+
+</rdf:RDF>

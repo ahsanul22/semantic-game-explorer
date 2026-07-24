@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+
+        <games:simulation-flight rdf:about="https://dbpedia.org/page/War_Thunder">
+    <games:number>2</games:number>
+    <games:abstract>
+        War Thunder is a vehicular combat multiplayer video game developed and published by Gaijin Entertainment. It features military vehicles from the interwar period to the early cold war period, with a focus on World War II and the Korean War. Players can pilot aircraft, drive tanks and other armored vehicles, and command ships in various battle scenarios. The game offers a wide range of playable nations, realistic vehicle physics, and detailed damage models. War Thunder includes both player vs. environment and player vs. player modes, allowing players to engage in historical battles and cooperative missions.
+    </games:abstract>
+    <games:developer>Gaijin_Entertainment</games:developer>
+    <games:releaseDate>2012-08-15</games:releaseDate>
+    <games:platforms>PlayStation, Xbox, PC</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/War_Thunder"/>
+</games:simulation-flight>
+
+    <games:simulation-flight rdf:about="https://dbpedia.org/page/X-Plane_11">
+    <games:number>3</games:number>
+    <games:abstract>
+        X-Plane 11 is a flight simulation engine developed and published by Laminar Research. It is part of the X-Plane series and serves as the latest installment in the franchise. Released on March 30, 2017, X-Plane 11 offers a highly realistic flight simulation experience. The game is compatible with both Windows and macOS platforms, catering to a wide range of users. X-Plane 11 includes a variety of commercial and military aircraft, as well as global scenery covering most parts of the Earth.
+        X-Plane 11 features an extensive plugin architecture, allowing users to create their own modules and expand the software's functionality. The community-driven aspect of the game is evident through the X-Plane forums, where users share aircraft, scenery, and plugins. Additionally, the Scenery Gateway website enables users to collaborate on airport designs, enhancing the overall gaming experience.
+    </games:abstract>
+    <games:developer>Laminar_Research</games:developer>
+    <games:releaseDate>2017-03-30</games:releaseDate>
+    <games:platforms>PC, Mac, Linux</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/X-Plane_11"/>
+</games:simulation-flight>
+
+    <games:simulation-flight rdf:about="https://dbpedia.org/page/Star_Wars:_Squadrons">
+    <games:number>4</games:number>
+    <games:abstract>
+        Star Wars: Squadrons is a space combat simulator game developed by Motive Studios and published by Electronic Arts. Set in the Star Wars universe, the game allows players to engage in dogfights and space battles as pilots from both the New Republic and the Galactic Empire. Players can pilot iconic starfighters, participate in fleet battles, and engage in strategic multiplayer gameplay. The game also features a single-player campaign, where players can experience the events from the perspective of pilots on both sides of the conflict.
+    </games:abstract>
+    <games:developer>Motive_Studios</games:developer>
+    <games:releaseDate>2020-10-02</games:releaseDate>
+    <games:platforms>PlayStation 4, Xbox One, Microsoft Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Star_Wars:_Squadrons"/>
+</games:simulation-flight>
+
+<games:simulation-flight rdf:about="https://dbpedia.org/page/Ace_Combat_7">
+    <games:number>5</games:number>
+    <games:abstract>
+        Ace Combat 7: Skies Unknown is a flight combat simulation game developed and published by Bandai Namco Entertainment. It is the latest installment in the Ace Combat series. In the game, players take on the role of a skilled fighter pilot, engaging in intense aerial battles against enemy aircraft and participating in thrilling dogfights. Ace Combat 7 features a compelling single-player campaign with a gripping storyline, as well as multiplayer modes that allow players to compete against each other in epic aerial battles.
+    </games:abstract>
+    <games:developer>Bandai_Namco_Entertainment</games:developer>
+    <games:releaseDate>2019-01-18</games:releaseDate>
+    <games:platforms>PlayStation 4, Xbox One, Microsoft Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Ace_Combat_7:_Skies_Unknown"/>
+</games:simulation-flight>
+
+<games:simulation-flight rdf:about="https://dbpedia.org/page/Elite_Dangerous">
+    <games:number>6</games:number>
+    <games:abstract>
+        Elite Dangerous is a space simulation game developed and published by Frontier Developments. It is the fourth installment in the Elite series and allows players to explore a realistic galaxy in the 34th century. Players can pilot various spacecraft, trade goods, mine resources, engage in combat, and explore planets, star systems, and celestial phenomena. The game features a dynamic, player-driven narrative and an open-world sandbox environment, allowing players to shape the game's universe through their actions and decisions.
+        Elite Dangerous offers a vast and realistic recreation of the Milky Way galaxy, with accurately modeled star systems, planets, and celestial objects. Players can participate in a player-driven economy, join factions, and engage in multiplayer interactions with other players. The game also includes virtual reality (VR) support, allowing players to experience space exploration in an immersive VR environment.
+    </games:abstract>
+    <games:developer>Frontier_Developments</games:developer>
+    <games:releaseDate>2014-12-16</games:releaseDate>
+    <games:platforms>PC, PlayStation 4, Xbox One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Elite_Dangerous"/>
+</games:simulation-flight>
+
+<games:simulation-flight rdf:about="https://dbpedia.org/page/Kerbal_Space_Program">
+    <games:number>7</games:number>
+    <games:abstract>
+        Kerbal Space Program is a space flight simulation video game developed and published by Squad. In the game, players take control of a space program operated by Kerbals, a species of small green humanoids, who have constructed a spaceport called the Kerbal Space Center on their home planet Kerbin. Players can build and fly spacecraft, conduct experiments, explore celestial bodies, and complete various missions in a fictional planetary system. The game offers a realistic physics engine, allowing players to design and launch rockets, spaceplanes, satellites, and rovers using a variety of parts and components.
+    </games:abstract>
+    <games:developer>Squad</games:developer>
+    <games:releaseDate>2015-04-27</games:releaseDate>
+    <games:platforms>PC, macOS, Linux, PlayStation 4, Xbox One</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Kerbal_Space_Program"/>
+</games:simulation-flight>
+
+<games:simulation-flight rdf:about="https://dbpedia.org/page/Project_Wingman">
+    <games:number>8</games:number>
+    <games:abstract>
+        Project Wingman is a flight simulation game developed by Sector D2 and published by Humble Games. The game offers intense aerial combat experiences in a fictional world with various landscapes and environments. Players can pilot a variety of fighter aircraft, engaging in dogfights and air battles against enemy planes, ground targets, and massive bosses. Project Wingman features a compelling single-player campaign, challenging missions, and a wide range of aircraft customization options.
+    </games:abstract>
+    <games:developer>Sector_D2</games:developer>
+    <games:releaseDate>2020-12-01</games:releaseDate>
+    <games:platforms>Microsoft Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Project_Wingman"/>
+</games:simulation-flight>
+
+<games:simulation-flight rdf:about="https://dbpedia.org/page/IL-2_Sturmovik:_Battle_of_Stalingrad">
+    <games:number>10</games:number>
+    <games:abstract>
+        IL-2 Sturmovik: Battle of Stalingrad is a combat flight simulation game developed by 1C Game Studios and published by 1C Entertainment. It is part of the IL-2 Sturmovik series, known for its realistic portrayal of World War II aerial combat. The game is set during the Battle of Stalingrad and features detailed aircraft models, historical missions, and realistic flight physics. Players can choose to fly for the Soviet Air Force or the German Luftwaffe, engaging in dogfights, ground attacks, and other missions based on historical events.
+    </games:abstract>
+    <games:developer>1C_Game_Studios</games:developer>
+    <games:releaseDate>2013-10-22</games:releaseDate>
+    <games:platforms>Microsoft Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/IL-2_Sturmovik:_Battle_of_Stalingrad"/>
+</games:simulation-flight>
+</rdf:RDF>

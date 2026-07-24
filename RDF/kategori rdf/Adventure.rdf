@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+         <games:adventure rdf:about="https://dbpedia.org/page/Scarygirl">
+         <games:number>1</games:number>
+         <games:abstract>Scarygirl (also stylized as ScaryGirl) is an adventure-platform game for the Xbox 360's Xbox Live Arcade, PlayStation 3's PlayStation Network and Microsoft Windows. Scarygirl was previously a graphic novel by Nathan Jurevicius, a Flash game, and a downloadable title for the PlayStation Portable. It was developed by TikGames and published by Square Enix. Scarygirl places the player in control of a girl who is sent from her home to a far-away city on a rescue mission. The girl is able to jump, grapple, and hover her way through seven game worlds, either alone or with another player in a cooperative multiplayer mode. Combat is handled through combining strings of light and heavy attacks, with grapple-based attacks becoming available once enemies take enough damage. Roundly praised for Jurevicius' art, ScaryGirl received otherwise mixed reviews upon its release. Critics found fault with both the control scheme and its combat system, although boss battles did receive some praise. (en)</games:abstract>
+         <games:developer>TIK Games</games:developer>
+         <games:releaseDate>2012-01-18</games:releaseDate>
+         <games:platforms> Xbox 360's Xbox Live Arcade, PlayStation 3, PlayStation Network, Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Scarygirl"/>
+         </games:adventure>
+     
+         <games:adventure rdf:about="https://dbpedia.org/page/Schizm:_Mysterious_Journey">
+         <games:number>2</games:number>
+         <games:abstract>Schizm: Mysterious Journey is an adventure-genre computer game created by Detalion and LK Avalon and published by DreamCatcher Games. It was authored by acclaimed Australian science fiction writer Terry Dowling. Within a year of release, its sales had surpassed 250,000 units worldwide. A major distinguishing feature of Schizm is that the player can switch control between the two characters at any time. There are puzzles which require both characters to be performing actions at the same time before they can be solved. A sequel, Mysterious Journey II (also known as Schizm II: Chameleon), was released. It was also authored by Terry Dowling. (en)</games:abstract>
+         <games:developer>Detalion, LK_Avalon</games:developer>
+         <games:releaseDate>2001-10-11</games:releaseDate>
+         <games:platforms>Microsoft_Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Schizm:_Mysterious_Journey"/>
+         </games:adventure>
+     
+         <games:adventure rdf:about="https://dbpedia.org/page/Scooby-Doo_Mystery">
+         <games:number>4</games:number>
+         <games:abstract>Scooby-Doo Mystery is the name of two video games released by Acclaim Entertainment and Sunsoft in 1995 based on the Scooby-Doo animated series. One of the games was released for the Sega Genesis and features a more traditional adventure game style interface. The other title, released for the Super Nintendo Entertainment System, is an adventure game with platforming elements. Both were released only in North America. In both games, players take control of Shaggy Rogers and Scooby-Doo, who help solve various mysteries with other members of Mystery Incorporated who serve minor roles during gameplay. (en)</games:abstract>
+         <games:developer>Argonaut_Games, Illusions_Gaming_Company</games:developer>
+         <games:releaseDate>1995-09-01</games:releaseDate>
+         <games:platforms>Super_Nintendo_Entertainment_System, Sega_Genesis</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Scooby-Doo_Mystery"/>
+         </games:adventure>
+     
+         <games:adventure rdf:about="https://dbpedia.org/page/Mystery_House">
+         <games:number>7</games:number>
+         <games:abstract>Mystery House is an adventure game released by On-Line Systems in 1980. It was designed, written and illustrated by Roberta Williams, and programmed by Ken Williams for the Apple II. Mystery House is the first graphical adventure game and the first game produced by On-Line Systems, the company which would evolve into Sierra On-Line. It is one of the earliest horror video games.</games:abstract>
+         <games:developer>Sierra Entertaiment</games:developer>
+         <games:releaseDate>1980-05-05 </games:releaseDate>
+         <games:platforms>Apple_II</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Mystery_House"/>
+         </games:adventure>
+     
+         <games:adventure rdf:about="https://dbpedia.org/page/Detective_Grimoire:_Secret_of_the_Swamp">
+         <games:number>8</games:number>
+         <games:abstract>Detective Grimoire: Secret of the Swamp, also simply called Detective Grimoire, is a murder mystery point-and-click adventure game developed by SFB Games and published by Armor Games, which was released on iOS platforms on January 2, 2014. It was later released on Android, PC, Mac, Linux and Steam by SFB Games. The game has been well received for its mystery, animation, dialogue and protagonist. It is intended to be the first game in a True Detective Grimoire franchise. A sequel, Tangle Tower, was released in 2019. However It was predated by a flash game release of the same name in 2007. (en)</games:abstract>
+         <games:developer>SFB_Games</games:developer>
+         <games:releaseDate>2014-01-02</games:releaseDate>
+         <games:platforms>Android_(operating_system), Linux, MacOS, IOS, Windows_(operating_system)</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Detective_Grimoire:_Secret_of_the_Swamp"/>
+         </games:adventure>
+     
+         <games:adventure rdf:about="https://dbpedia.org/page/Case_Closed:_The_Mirapolis_Investigation">
+         <games:number>10</games:number>
+         <games:abstract>Case Closed: The Mirapolis Investigation, known in Japan as Meitantei Conan: Tsuioku no Mirage (名探偵コナン 追憶の幻想（ミラージュ）, Meitantei Konan: Tsuioku no Mirāju, lit. "Detective Conan: Mirage of Remembrance"), is a video game for the Wii. It is based upon the popular anime and manga series Case Closed by Gosho Aoyama. Players use the Wii Remote to find clues and solve the cases. (en)</games:abstract>
+         <games:developer>Imageepoch</games:developer>
+         <games:releaseDate>2007--05-17</games:releaseDate>
+         <games:platforms>Wii</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Case_Closed:_The_Mirapolis_Investigation"/>
+         </games:adventure>
+
+         <games:adventure rdf:about="https://dbpedia.org/page/Hatsune_Miku:_Project_DIVA_X">
+         <games:number>1</games:number>
+         <games:abstract>Hatsune Miku: Project DIVA X (初音ミク -Project DIVA- X) is a 2016 rhythm game featuring the character Hatsune Miku, created by Sega and Crypton Future Media, released on March 24, 2016 for the PlayStation Vita in Japan. A PlayStation 4 version known in Japan as Hatsune Miku: Project DIVA X HD (初音ミク -Project DIVA- X HD) was released on August 25, 2016. A North American and European version has been released for PlayStation 4 and PlayStation Vita on August 30, 2016. The title reflects the game being the 10th entry in the Hatsune Miku: Project DIVA series (including the Dreamy Theater games and both versions of Hatsune Miku: Project DIVA F). The game takes a new approach to play style, focusing around the theme of "Live and Produce". (en)</games:abstract>
+         <games:developer>Crypton_Future_Media, Sega</games:developer>
+         <games:releaseDate>2016-08-25</games:releaseDate>
+         <games:platforms>PlayStation_4, PlayStation_Vita</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA_X"/>
+         </games:adventure>
+     
+         <games:adventure rdf:about="https://dbpedia.org/page/Ace_Attorney">
+         <games:number>3</games:number>
+         <games:abstract>Ace Attorney is a series of visual novel adventure video games developed by Capcom. With storytelling fashioned after legal dramas, the first entry in the series, Phoenix Wright: Ace Attorney, was released in 2001; since then, five further main series games, as well as various spin-offs, prequels and high-definition remasters for newer game consoles, have been released. Additionally, the series has seen adaptations in the form of a live-action film and an anime, and has been the base for manga series, drama CDs, musicals and stage plays. The player takes the roles of various defense attorneys, including Phoenix Wright, his mentor Mia Fey, and his understudies Apollo Justice and Athena Cykes, who investigate cases and defend their clients in court; they find the truth by cross-examining witnesses and finding inconsistencies between the testimonies and the evidence they have collected. The cases all last a maximum of three days, with the judge determining the outcome based on evidence presented by the defense attorney and the prosecutor. While the original Japanese versions of the games are set in Japan, the series' localizations are set in the United States (primarily Los Angeles), though retaining Japanese cultural elements. In the spin-off series , the player takes the role of prosecutor Miles Edgeworth and in the prequel series The Great Ace Attorney Chronicles, of Phoenix's ancestor Ryunosuke Naruhodo. The series was created by the writer and director Shu Takumi. He wanted the series to end after the third game, but it continued, with Takeshi Yamazaki taking over as writer and director starting with Ace Attorney Investigations: Miles Edgeworth (2009); Takumi has since returned to write and direct some spin-off titles. The series has been well received, with reviewers liking the characters and story, and the finding of contradictions; it has also performed well commercially, with Capcom regarding it as one of their strongest intellectual properties. The series has been credited with helping to popularize visual novels in the Western world. As of September 30, 2022, the game series has sold 9.6 million units worldwide. (en)</games:abstract>
+         <games:developer>Capcom</games:developer>
+         <games:releaseDate>2021-07-27</games:releaseDate>
+         <games:platforms>Game Boy Advance (en), Nintendo 3DS (en), Nintendo DS (en),Nintendo Switch (en), PlayStation 4 (en), Wii (en), Windows (en), Xbox One (en), Android (en), IOS (en)</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney"/>
+         </games:adventure>
+     
+         <games:adventure rdf:about="https://dbpedia.org/page/Danganronpa_2:_Goodbye_Despair">
+         <games:number>5</games:number>
+         <games:abstract>Danganronpa 2: Goodbye Despair is a 2012 visual novel developed by Spike Chunsoft. It is the second game in the Danganronpa franchise following Danganronpa: Trigger Happy Havoc (2010). It was first released in Japan for PlayStation Portable in July 2012, and a port for PlayStation Vita was released in Japan in October 2013. NIS America released the game worldwide in September 2014; a port for PC was released in April 2016 and a bundle for PlayStation 4 called Danganronpa 1-2 Reload, also containing the first Danganronpa game, was released in March 2017. An enhanced version with the subtitle Anniversary Edition was released for Android and iOS in August 2020, for Nintendo Switch in November 2021, and for Microsoft Windows and Xbox One May 2022. Development of the game started as Kazutaka Kodaka was writing the light novel prequel Danganronpa Zero and added hints about a sequel to the novel following their approval. Kodaka aimed to develop a unique plot to give players more mysterious elements in a group of islands, inspired by the television series Lost. The protagonist Hajime Hinata is part of a group of high-school students who are trapped on a tropical island by their high school's headmaster Monokuma, a sentient stuffed bear, along with Monomi, a sentient stuffed rabbit. Similar to the first game, to leave the island, students must kill one of their peers and not be caught in the subsequent investigation and trial. The game was well received based on sales and critics. Critical response to the game's narrative and cast was generally favorable. However, the gameplay elements involving class trials earned mixed responses; some writers found some parts of the game uninteresting, while early ones proved unchallenging. Danganronpa 2: Goodbye Despair was followed by the spin-off Danganronpa Another Episode: Ultra Despair Girls, which was released on September 25, 2014, and the anime Danganronpa 3: The End of Hope's Peak High School, which ran from July 11, 2016 to September 29, 2016. A loose sequel to the series, called Danganronpa V3: Killing Harmony, with similar gameplay but a different storyline was released on January 12, 2017. (en)</games:abstract>
+         <games:developer>Spike_Chunsoft</games:developer>
+         <games:releaseDate>2012-07-26</games:releaseDate>
+         <games:platforms>PSP, Android, IOS, Nintendo Switch</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Danganronpa_2:_Goodbye_Despair"/>
+         </games:adventure>
+     
+         <games:adventure rdf:about="https://dbpedia.org/page/Muv-Luv">
+         <games:number>10</games:number>
+         <games:abstract>Muv-Luv is a Japanese visual novel developed by âge and originally released as an adult game for Windows on February 28, 2003. Consisting of two parts, Muv-Luv Extra and Muv-Luv Unlimited, the gameplay in Muv-Luv follows a linear plot line, which offers pre-determined scenarios and courses of interaction, and focuses on the differing scenarios of the female main characters. Muv-Luv was followed by a sequel, Muv-Luv Alternative, which was released for Windows on April 24, 2006 and follows the storyline of Muv-Luv Unlimited. The trilogy's story initially presents itself as a light-hearted romantic comedy (Extra), but changes into an alternate timeline coming-of-age story (Unlimited), and finally evolves into an alien invasion war epic (Alternative). (en)</games:abstract>
+         <games:developer>5</games:developer>
+         <games:releaseDate>2006-10-25</games:releaseDate>
+         <games:platforms>Android, IOS, PlayStation_3, PlayStation_Vita, Microsoft Windows, Xbox 360</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Muv-Luv"/>
+         </games:adventure>
+</rdf:RDF>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+         <games:sport rdf:about="https://dbpedia.org/page/FIFA_Online">
+         <games:number>1</games:number>
+         <games:abstract>	
+            FIFA Online is a series of online sports games developed by Electronic Arts (EA) based on EA's FIFA series of games. 
+            It is released with a free-to-play model with a focus on the Asian video game market. The first entry in the series was released in May 2006. 
+         </games:abstract>        
+         <games:developer>EA Vancouver</games:developer>
+         <games:releaseDate>2006-05-25 </games:releaseDate>
+         <games:platforms>PC</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://id.wikipedia.org/wiki/FIFA_(seri_permainan_video)"/>
+         </games:sport>
+
+         <games:sport rdf:about="https://dbpedia.org/page/EFootball_PES_2020">
+         <games:number>2</games:number>
+         <games:abstract>	
+            eFootball PES 2020 (eFootball Pro Evolution Soccer 2020) is a football simulation video game developed by PES Productions and published by Konami for Microsoft Windows, PlayStation 4, Xbox One, Android, and IOS. 
+            The game is the 19th installment in the eFootball Pro Evolution Soccer series and was launched worldwide on 10 September 2019 and in Japan on 12 September 2019. 
+            This year's edition features a name change with the addition of 'eFootball' within the title, symbolising a push in the online gaming space with a focus on eFootball Pro tournaments </games:abstract>        
+         <games:developer>PES Productions</games:developer>
+         <games:releaseDate>2019-9-10</games:releaseDate>
+         <games:platforms>PlayStation 4, Windows, Xbox One</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/EFootball_PES_2020"/>
+         </games:sport>
+
+         <games:sport rdf:about="https://dbpedia.org/page/WWE_SmackDown_vs._Raw_2008">
+         <games:number>3</games:number>
+         <games:abstract>	
+            WWE SmackDown vs. Raw 2008 (sometimes subtitled with featuring ECW) is a professional wrestling video game published by THQ in November 2007, and developed by Yuke's for the PlayStation 2, PlayStation 3, Xbox 360, Wii, and PlayStation Portable video game consoles; with Amaze Entertainment overseeing development for the Nintendo DS version. 
+            SmackDown vs. Raw 2008 is the ninth overall installment of the video game series based on the professional wrestling promotion World Wrestling Entertainment (WWE), the fourth game in the SmackDown vs. Raw series, the sequel to 2006's SmackDown vs. Raw 2007, and the first WWE game to feature the promotion's ECW brand. 
+            The game was succeeded by WWE SmackDown vs. Raw 2009 in 2008.</games:abstract>        
+         <games:developer>Amaze_Entertainment</games:developer>
+         <games:releaseDate>2007-11-09</games:releaseDate>
+         <games:platforms>PlayStation 2, Wii, Xbox 360, Playstation 3, Playstation Portable, Nintendo DS </games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/WWE_SmackDown_vs._Raw_2008"/>
+         </games:sport>
+
+         <games:sport rdf:about="https://dbpedia.org/page/Madden_NFL_25">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Madden NFL 25 is an American football sports video game based on the National Football League and published by EA Sports. It was released for PlayStation 3 and Xbox 360 in August 2013. 
+            Instead of numbering it Madden NFL 14 with the year like in previous versions, the "25" in the title refers to the 25th anniversary of the Madden NFL series. The eighth-generation console versions of Madden NFL 25 are the very first games to run on EA Sports's Ignite game engine. 
+            However, the seventh generation versions still run on EA's previous game engine, Impact. The seventh-generation versions featured former Detroit Lions running back Barry Sanders on the cover, while the eighth-generation versions featured Minnesota Vikings running back Adrian Peterson, and were released as launch titles for the PlayStation 4 and Xbox One in November 2013.</games:abstract>        
+         <games:developer>EA_Tiburon</games:developer>
+         <games:releaseDate>2013-8-27</games:releaseDate>
+         <games:platforms>PlayStation 4, IOS, Xbox 360, Playstation 3, Xbox One</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Madden_NFL_25"/>
+         </games:sport>  
+
+         <games:sport rdf:about="https://dbpedia.org/page/Football_Manager_Live">
+         <games:number>5</games:number>
+         <games:abstract>	
+            Football Manager Live was a massively multiplayer online game (MMO) developed by Sports Interactive released in November 2008 for Microsoft Windows and Mac OS X. 
+            Whilst the game was subscription based, both major and minor updates were provided within the subscription paid by users. Subscriptions could be purchased online using debit/credit cards, or PayPal to play on a regular basis, or through boxed copies, which were released in the United Kingdom on 23 January 2009. 
+            The servers for the game shut down in May 2011.</games:abstract>        
+         <games:developer>Sports_Interactive</games:developer>
+         <games:releaseDate>2008-11-04 </games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOs</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Football_Manager_Live"/>
+         </games:sport>           
+         
+         <games:sport rdf:about="https://dbpedia.org/page/NHL_22">
+         <games:number>6</games:number>
+         <games:abstract>	
+            NHL 22 is an ice hockey simulation video game developed by EA Vancouver and published by EA Sports. It is the 31st installment in the NHL video game series and was released for the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S on October 15, 2021. 
+            It is the first entry in the series to use the Frostbite engine, and utilizes the new game engine on all four platforms. The game features Toronto Maple Leafs center Auston Matthews as the cover athlete for the second time in the series, after being the North American cover athlete for NHL 20.</games:abstract>        
+         <games:developer>EA_Vancouver</games:developer>
+         <games:releaseDate>2021-10-15 </games:releaseDate>
+         <games:platforms>PlayStation 4, Xbox Series X, Xbox Series S, Playstation 5, Xbox One</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/NHL_22"/>
+         </games:sport>           
+         
+         <games:sport rdf:about="https://dbpedia.org/page/FIFA_23">
+         <games:number>7</games:number>
+         <games:abstract>	
+            FIFA 23 is a football simulation video game published by Electronic Arts. 
+            It is the 30th installment in the FIFA series that is developed by EA Sports, and the final installment under the FIFA banner, and released worldwide on 30 September 2022 for PC, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S and Google Stadia. 
+            Widely regarded to be one of the greatest game series of all time, the game is the final under the partnership between EA and FIFA. Future football games by EA without the inclusion of the FIFA name are set to be named under the banner of EA Sports FC</games:abstract>        
+         <games:developer>Electronic_Arts</games:developer>
+         <games:releaseDate>2022-09-30</games:releaseDate>
+         <games:platforms>PlayStation 4, Windows, Nintendo Switch, Xbox Series X, Playstation 5, Xbox One</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/FIFA_23"/>
+         </games:sport>           
+         
+         <games:sport rdf:about="https://dbpedia.org/page/FIFA_22">
+         <games:number>8</games:number>
+         <games:abstract>	
+            FIFA 22 is a football simulation video game published by Electronic Arts. It is the 29th installment in the FIFA series, and was released worldwide on 1 October 2021 for Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S. 
+            Players who pre-ordered the ultimate edition, however, received four days of early access and were able to play the game from 27 September. Kylian Mbappé is the cover athlete for the second consecutive year. 
+            In response to the 2022 Russian invasion of Ukraine, EA removed Russian national teams from all versions (since 1.22 patch) of its football video games, and made Russian and Belarusian players ineligible for FIFA 22.</games:abstract>        
+         <games:developer>Electronic_Arts</games:developer>
+         <games:releaseDate>2021-10-01</games:releaseDate>
+         <games:platforms>PlayStation 4, Windows, Nintendo Switch, Xbox Series X, Playstation 5, Xbox One</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/FIFA_22"/>
+         </games:sport>
+
+         <games:sport rdf:about="https://dbpedia.org/page/Skate_3">
+         <games:number>3</games:number>
+         <games:abstract>	
+            Skate 3 is a skateboarding video game, the third installment in the Skate series and the sequel to 2009's Skate 2, developed by EA Black Box and published by Electronic Arts. 
+            It was released worldwide in May 2010 for PlayStation 3 and Xbox 360. The game takes place in the fictional city of Port Carverton, which embraces skateboarding, unlike considering it a crime in the second game. The player character goes by the alias "The Legend". After failing to "Jump The Shark", their goal becomes creating a successful skateboarding team. 
+            It is the player's goal to sell one million boards by completing challenges. The game introduced some new features including new tricks, a park builder, and "Easy" and "Hardcore" modes instead of just "Normal" mode.</games:abstract>        
+         <games:developer>EA Black Box</games:developer>
+         <games:releaseDate>2010-05-11</games:releaseDate>
+         <games:platforms>PlayStation 3, Xbox 360</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://www.ea.com/games/skate/skate-3"/>
+         </games:sport>
+
+         <games:sport rdf:about="https://dbpedia.org/page/Shaun_White_Skateboarding">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Shaun White Skateboarding is a sports video game developed by Ubisoft Montreal and published by Ubisoft for Microsoft Windows, PlayStation 3, Wii and Xbox 360. 
+            It is a spin-off of the Shaun White Snowboarding duology</games:abstract>        
+         <games:developer>Ubisoft Montreal</games:developer>
+         <games:releaseDate>2010-09-30</games:releaseDate>
+         <games:platforms>Wii, Xbox 360, Playstation 3, Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Shaun_White_Skateboarding"/>
+         </games:sport>  
+
+         <games:sport rdf:about="https://dbpedia.org/page/OlliOlli">
+         <games:number>5</games:number>
+         <games:abstract>	
+            OlliOlli is a side-scrolling skateboarding video game developed and published by Roll7. It was released for PlayStation Vita on 21 January 2014 in North America, and on 22 January 2014 in Europe. 
+            The game received a port for Microsoft Windows, OS X and Linux, developed by General Arcade and published by Devolver Digital, a port for PlayStation 3 and PlayStation 4, developed by BlitWorks and again published by Roll7, a port for Xbox One, Wii U, and Nintendo 3DS, developed by Carbon and published by Curve Digital, and a port for Android, developed by BlitWorks and published by Devolver Digital. 
+            A collection of both games released for Nintendo Switch on 14 February 2019, titled OlliOlli: Switch Stance. A sequel, OlliOlli2: Welcome to Olliwood, was announced for PlayStation Vita and PlayStation 4 on 25 September 2014, and was released on 3 March 2015 in North America, and on 4 March 2015 in Europe</games:abstract>        
+         <games:developer>Roll7</games:developer>
+         <games:releaseDate>2008-11-04 </games:releaseDate>
+         <games:platforms>Microsoft Windows, Linux, Playstation 3, Playstation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/OlliOlli"/>
+         </games:sport>           
+         
+         <games:sport rdf:about="https://dbpedia.org/page/Amped_3">
+         <games:number>6</games:number>
+         <games:abstract>	
+            Amped 3 is a snowboarding video game, the third and final installment of the Amped sports game franchise, developed by Indie Built published by 2K Sports and released exclusively for the Xbox 360 in 2005. 
+            It expands on previous versions of the Xbox exclusive games. It has also been noted for taking a more irreverent tone than previous installments, such as the inclusion of challenges in which two players compete to amass the most injuries, and for its unique cut-scenes using different visual media, from hand puppets to anime</games:abstract>        
+         <games:developer>Indie Built</games:developer>
+         <games:releaseDate>2005-11-22</games:releaseDate>
+         <games:platforms>Xbox 360</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Amped_3"/>
+         </games:sport>          
+
+         <games:sport rdf:about="https://dbpedia.org/page/Forza_Horizon_5">
+         <games:number>1</games:number>
+         <games:abstract>	
+            Forza Horizon 5 is a 2021 racing video game developed by Playground Games and published by Xbox Game Studios. It is the fifth Forza Horizon title and twelfth main instalment in the Forza series. 
+            The game is set in a fictionalised representation of Mexico. It was released on 9 November 2021 for Microsoft Windows, Xbox One, and Xbox Series X/S. The game received critical acclaim and became a commercial success upon release; 
+            it launched to over ten million players in the first week, the biggest-ever launch for an Xbox Game Studios game. The game was nominated for three jury-voted awards at The Game Awards 2021
+         </games:abstract>        
+         <games:developer>Playground_Games</games:developer>
+         <games:releaseDate>2021-11-09</games:releaseDate>
+         <games:platforms>Xbox One, Windows, Xbox Series X</games:platforms>  
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Forza_Horizon_5"/>
+         </games:sport>
+
+         <games:sport rdf:about="https://dbpedia.org/page/Gran_Turismo_7">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Gran Turismo 7 is a racing simulation video game developed by Polyphony Digital and published by Sony Interactive Entertainment. The game is the eighth mainline installment in the Gran Turismo series. 
+            The game was announced on June 11, 2020 at the PlayStation 5 reveal event and was released on March 4, 2022 for PlayStation 4 and PlayStation 5, making it the first multi-console installment in the series. 
+            Gran Turismo 7 received generally favorable reviews from critics, with praise for its graphics and gameplay. Player reception was negative due to its use of microtransactions and excessive grinding</games:abstract>        
+         <games:developer>Polyphony_Digital</games:developer>
+         <games:releaseDate>2010-09-30</games:releaseDate>
+         <games:platforms>Playstation 4, Playstation 5</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Gran_Turismo_7"/>
+         </games:sport>  
+
+         <games:sport rdf:about="https://dbpedia.org/page/Dirt_5">
+         <games:number>5</games:number>
+         <games:abstract>	
+            Dirt 5 is a simcade racing video game developed and published by Codemasters. 
+            The game was released for Microsoft Windows, PlayStation 4 and Xbox One on 6 November 2020, for Xbox Series X/S on 10 November, and for PlayStation 5 on 12 November (for North America, Oceania, Japan, and South Korea) and 19 November (for most other regions), and for Stadia on 24 March 2021. 
+            It was the last video game released by Codemasters as an independent company before acquired by Electronic Arts on 18 February 2021</games:abstract>        
+         <games:developer>Codemasters</games:developer>
+         <games:releaseDate>2020-11-06 </games:releaseDate>
+         <games:platforms>Microsoft Windows, Xbox One, Xbox Series, Playstation 5, Playstation 4</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Dirt_5"/>
+         </games:sport>           
+         
+         <games:sport rdf:about="https://dbpedia.org/page/WRC_10">
+         <games:number>6</games:number>
+         <games:abstract>	
+            WRC 10, also known as WRC 10 FIA World Rally Championship, is a racing video game developed by French developer Kylotonn and published by Nacon. It is a sequel to WRC 9 and is the official game of the 2021 World Rally Championship. 
+            The game was released for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in September 2021, with the Nintendo Switch version released in March 2022</games:abstract>        
+         <games:developer>Kylotonn</games:developer>
+         <games:releaseDate>2021-08-31</games:releaseDate>
+         <games:platforms>Playstation 4, Playstation 5, Nintendo Switch, Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/WRC_10"/>
+         </games:sport>                  
+         
+         <games:sport rdf:about="https://dbpedia.org/page/Assetto_Corsa_Competizione">
+         <games:number>8</games:number>
+         <games:abstract>	
+            The game focuses on GT3 and GT4 cars and is an officially licensed simulation of the 2018 and 2019 Blancpain GT Series season Sprint and Endurance Cups and the Total 24 Hours of Spa, and is set to serve as a platform for esports. 
+            Kunos Simulazioni announced the game on 21 February 2018 with a planned Steam Early Access release in summer 2018. On 27 July 2018, a 12 September 2018 early access release date and a roadmap with monthly updates until a full release in Q1 2019 was revealed at the Total 24 Hours of Spa 2018 SRO press conference.</games:abstract>        
+         <games:developer>Kunos Simulazioni</games:developer>
+         <games:releaseDate>2022-02-24</games:releaseDate>
+         <games:platforms>Playstation 4, Playstation 5, Windows, Xbox One, Xbox Series</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Assetto_Corsa"/>
+         </games:sport>        
+      </rdf:RDF>

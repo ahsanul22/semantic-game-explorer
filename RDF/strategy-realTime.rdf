@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+         <games:real-time-strategy rdf:about="https://dbpedia.org/page/StarCraft_II:_Wings_of_Liberty">
+         <games:number>1</games:number>
+         <games:abstract>	
+            StarCraft II: Wings of Liberty is a science fiction real-time strategy video game developed and published by Blizzard Entertainment. It is the sequel to the 1998 video game StarCraft. 
+            The game includes both new and returning characters and locations from the original game. The game was praised for its engaging single-player campaign and competitive multiplayer mode, making it a significant title in the esports industry.
+         </games:abstract>        
+         <games:developer>Blizzard_Entertainment</games:developer>
+         <games:releaseDate>2010-07-27</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>  
+         <foaf:isPrimaryTopicOf rdf:resource="https://starcraft2.com/"/>
+         </games:real-time-strategy>
+
+         <games:real-time-strategy rdf:about="https://dbpedia.org/page/Warcraft_III:_Reign_of_Chaos">
+         <games:number>2</games:number>
+         <games:abstract>	
+            Warcraft III: Reign of Chaos is a high fantasy real-time strategy video game developed and published by Blizzard Entertainment, and was released in July 2002. 
+            It is the second sequel to Warcraft: Orcs and Humans and the third game set in the Warcraft fictional universe. An expansion pack, The Frozen Throne, was released in July 2003.
+         </games:abstract>        
+         <games:developer>Blizzard_Entertainment</games:developer>
+         <games:releaseDate>2002-07-03</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos"/>
+         </games:real-time-strategy>
+
+         <games:real-time-strategy rdf:about="https://dbpedia.org/page/Total_War:_Three_Kingdoms">
+         <games:number>3</games:number>
+         <games:abstract>	
+            Total War: Three Kingdoms is a turn-based strategy real-time tactics video game developed by Creative Assembly and published by Sega. As the 12th mainline entry in the Total War series, the game was released for Microsoft Windows in May 2019.
+         </games:abstract>        
+         <games:developer>Creative_Assembly</games:developer>
+         <games:releaseDate>2019-05-23</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Total_War:_Three_Kingdoms"/>
+         </games:real-time-strategy>
+
+         <games:real-time-strategy rdf:about="https://dbpedia.org/page/Company_of_Heroes">
+         <games:number>4</games:number>
+         <games:abstract>	
+            Company of Heroes is a real-time strategy video game developed by Relic Entertainment and published by THQ. It was released for Microsoft Windows in September 2006. The game is set during World War II and contains two playable factions.
+         </games:abstract>        
+         <games:developer>Relic_Entertainment</games:developer>
+         <games:releaseDate>2006-09-11</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Company_of_Heroes"/>
+         </games:real-time-strategy>  
+
+         <games:real-time-strategy rdf:about="https://dbpedia.org/page/Age_of_Empires_II">
+         <games:number>5</games:number>
+         <games:abstract>	
+            Age of Empires II: The Age of Kings is a real-time strategy video game developed by Ensemble Studios and published by Microsoft. 
+            It was released for Microsoft Windows in September 1999 and is the second game in the Age of Empires series. The game is set in the Middle Ages and features a historical setting and campaign.
+         </games:abstract>        
+         <games:developer>Ensemble_Studios</games:developer>
+         <games:releaseDate>1999-09-30</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Age_of_Empires_II"/>
+         </games:real-time-strategy>           
+         
+         <games:real-time-strategy rdf:about="https://dbpedia.org/page/Empire:_Total_War">
+         <games:number>6</games:number>
+         <games:abstract>	
+            Empire: Total War is a turn-based strategy and real-time tactics video game developed by Creative Assembly and published by Sega. 
+            It was released for Microsoft Windows in March 2009. The game is set in the 18th century and features a global map for players to manage their empires.
+         </games:abstract>        
+         <games:developer>Creative_Assembly</games:developer>
+         <games:releaseDate>2009-03-03</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Empire:_Total_War"/>
+         </games:real-time-strategy>                   
+         
+         <games:real-time-strategy rdf:about="https://dbpedia.org/page/Starcraft">
+         <games:number>8</games:number>
+         <games:abstract>	
+            StarCraft is a military science fiction media franchise created by Chris Metzen and James Phinney and owned by Blizzard Entertainment. 
+            The series, set in the beginning of the 26th century, centers on a galactic struggle for dominance among four species—the adaptable and mobile Terrans, the ever-evolving insectoid Zerg, the powerfully enigmatic Protoss, and the "god-like" Xel'Naga creator races—in two separate subseries.
+         </games:abstract>        
+         <games:developer>Blizzard_Entertainment</games:developer>
+         <games:releaseDate>1998-03-31</games:releaseDate>
+         <games:platforms>Microsoft Windows, MacOS</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/StarCraft"/>
+         </games:real-time-strategy>                 
+
+         <games:real-time-strategy rdf:about="https://dbpedia.org/page/Rise_of_Nations">
+         <games:number>10</games:number>
+         <games:abstract>	
+            Rise of Nations is a real-time strategy video game developed by Big Huge Games and published by Microsoft Game Studios. 
+            The game was released in May 2003. It combines elements from both traditional real-time strategy games and turn-based strategy games.
+         </games:abstract>        
+         <games:developer>Big_Huge_Games</games:developer>
+         <games:releaseDate>2003-05-20</games:releaseDate>
+         <games:platforms>Microsoft Windows</games:platforms>
+         <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Rise_of_Nations"/>
+         </games:real-time-strategy>
+</rdf:RDF>

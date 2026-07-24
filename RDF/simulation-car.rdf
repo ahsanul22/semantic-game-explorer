@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:games="https://example.org/schema/games">
+
+    <games:simulation-car rdf:about="https://dbpedia.org/page/Euro_Truck_Simulator">
+    <games:number>1</games:number>
+    <games:abstract>
+        Euro Truck Simulator is a truck driving simulation game developed and published by SCS Software. Players can experience the life of a truck driver, delivering cargo across various European cities. The game features realistic trucks, detailed landscapes, and challenging missions, offering players a true trucking experience.
+    </games:abstract>
+    <games:developer>SCS_Software</games:developer>
+    <games:releaseDate>2008-08-29</games:releaseDate>
+    <games:platforms>Microsoft Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Euro_Truck_Simulator"/>
+</games:simulation-car>
+
+<games:simulation-car rdf:about="https://dbpedia.org/page/American_Truck_Simulator">
+    <games:number>2</games:number>
+    <games:abstract>
+        American Truck Simulator is a truck driving simulation game developed and published by SCS Software. Players can explore the roads of the United States, delivering various cargoes in realistic American trucks. The game features detailed landscapes, authentic truck models, and a variety of challenging missions.
+    </games:abstract>
+    <games:developer>SCS_Software</games:developer>
+    <games:releaseDate>2016-02-02</games:releaseDate>
+    <games:platforms>Microsoft Windows, macOS, Linux</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/American_Truck_Simulator"/>
+</games:simulation-car>
+
+<games:simulation-car rdf:about="https://dbpedia.org/page/Automobilista_2">
+    <games:number>5</games:number>
+    <games:abstract>
+        Automobilista 2 is a racing simulation video game developed and published by Reiza Studios. It offers a highly realistic racing experience with a focus on motorsports simulation. Players can compete in various racing disciplines, including open-wheel, touring cars, and endurance racing. The game features a wide range of meticulously detailed cars and tracks, providing players with an authentic racing environment. Automobilista 2 includes advanced physics, dynamic weather, and day-night cycles, enhancing the realism of the gameplay. Players can customize their vehicles, participate in championships, and experience realistic race conditions.
+    </games:abstract>
+    <games:developer>Reiza_Studios</games:developer>
+    <games:releaseDate>2020-03-31</games:releaseDate>
+    <games:platforms>Microsoft Windows</games:platforms>
+    <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Automobilista_2"/>
+</games:simulation-car>
+
+<games:simulation-car rdf:about="https://dbpedia.org/page/Driver:_San_Francisco">
+        <games:number>6</games:number>
+        <games:abstract>	
+            Driver: San Francisco is an open-world action-adventure racing video game developed by Ubisoft Reflections and published by Ubisoft. The game is set in a fictional version of San Francisco and features the main protagonist, Tanner, who has the ability to shift into the bodies of other drivers. Players can explore the city, engage in various missions, and participate in high-speed chases and races. The game's unique mechanic of "shifting" allows players to experience different aspects of the city and its inhabitants. Driver: San Francisco offers a compelling storyline, immersive gameplay, and a wide range of vehicles to drive. It was released to critical acclaim for its innovative gameplay and engaging narrative.
+        </games:abstract>
+        <games:developer>Ubisoft_Reflections</games:developer>
+        <games:releaseDate>2011-09-01</games:releaseDate>
+        <games:platforms>PlayStation 3, Xbox 360, Microsoft Windows, Mac OS X</games:platforms>
+        <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Driver:_San_Francisco"/>
+    </games:simulation-car>
+
+ <games:simulation-car rdf:about="https://dbpedia.org/page/TrackMania_2:_Canyon">
+        <games:number>7</games:number>
+        <games:abstract>	
+            TrackMania 2: Canyon is a racing video game developed by Nadeo and published by Ubisoft. It is a part of the TrackMania series and was released on September 14, 2011. The game focuses on time attack gameplay, where players can race on various tracks with different vehicles and compete to set the fastest time. TrackMania 2: Canyon features an extensive track editor that allows players to create and share their custom tracks. The game offers a wide variety of vehicles, including sports cars and off-road vehicles, each with unique handling characteristics. Players can participate in single-player campaigns, online multiplayer races, and join community-created events. The game is known for its user-generated content and a vibrant online community.
+        </games:abstract>
+        <games:developer>Nadeo</games:developer>
+        <games:releaseDate>2011-09-14</games:releaseDate>
+        <games:platforms>Microsoft Windows</games:platforms>
+        <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/TrackMania_2:_Canyon"/>
+    </games:simulation-car>
+
+    <games:simulation rdf:about="https://dbpedia.org/page/Autobahn_Police_Simulator">
+        <games:number>8</games:number>
+        <games:abstract>
+            Autobahn Police Simulator is a simulation video game developed by Z-Software and published by Aerosoft. In this game, players take on the role of a police officer patrolling the autobahn (highway) in a fictional German city. Players are responsible for enforcing traffic laws, responding to emergencies, and maintaining law and order on the busy highway. The game offers a realistic simulation of police procedures and features a variety of police vehicles, including patrol cars and motorcycles. Players can pull over vehicles, issue tickets, and participate in high-speed chases. Autobahn Police Simulator provides players with a detailed and immersive experience of police work on the autobahn.
+        </games:abstract>
+        <games:developer>Z-Software</games:developer>
+        <games:releaseDate>2015-08-26</games:releaseDate>
+        <games:platforms>Microsoft Windows</games:platforms>
+        <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Autobahn_Police_Simulator"/>
+    </games:simulation>
+
+    <games:simulation-car rdf:about="https://dbpedia.org/page/Shift_2:_Unleashed">
+    <games:number>10</games:number>
+    <games:abstract>	
+        Shift 2: Unleashed is a racing simulation video game developed by Slightly Mad Studios and published by Electronic Arts. It is the sequel to the 2009 game Need for Speed: Shift and was released in 2011 for PlayStation 3, Xbox 360, and Microsoft Windows. The game features a variety of real-world tracks and cars, offering a realistic driving experience. Players can participate in different racing events, customize their vehicles, and compete against AI opponents or other players in online multiplayer mode. Shift 2: Unleashed received praise for its realistic handling, graphics, and immersive gameplay. The game also includes a helmet camera view, providing a more authentic perspective of the race. Shift 2: Unleashed is known for its challenging gameplay and attention to detail, making it a popular choice among racing simulation enthusiasts.
+        </games:abstract>
+        <games:releaseDate>2011-03-29</games:releaseDate>
+        <games:platforms>PlayStation 3, Xbox 360, Microsoft Windows</games:platforms>
+        <foaf:isPrimaryTopicOf rdf:resource="https://en.wikipedia.org/wiki/Shift_2:_Unleashed"/>
+    </games:simulation-car>
+</rdf:RDF>
