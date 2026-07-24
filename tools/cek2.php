@@ -2,8 +2,8 @@
 /* =====================================================================
    PENGUJI QUERY — Smart Game Seeker
    ---------------------------------------------------------------------
-   Letakkan sejajar dengan index.php, lalu buka:
-   http://localhost/TUBES%20WEB%20SEMANTIK/cek2.php
+   Buka lewat:
+   http://localhost/semantic-game-explorer/tools/cek2.php
 
    Query detail dipecah menjadi potongan bertingkat. Potongan pertama
    yang menghasilkan 0 baris adalah klausa yang menggagalkan query.

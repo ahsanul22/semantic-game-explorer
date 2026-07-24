@@ -1,8 +1,10 @@
 # Smart Game Seeker — Semantic Game Explorer
 
 Aplikasi web pencarian & eksplorasi data video game menggunakan **teknologi web
-semantik**: RDF, SPARQL, dan Linked Open Data. Dibuat untuk tugas besar mata
-kuliah Web Semantik.
+semantik**: RDF, SPARQL, dan Linked Open Data. Menggabungkan query live ke
+[DBpedia](https://www.dbpedia.org/) dengan triplestore [Apache Jena
+Fuseki](https://jena.apache.org/documentation/fuseki2/) lokal berisi data RDF
+hasil kurasi manual.
 
 **🌐 Demo online:** https://semantic-game-explorer.infinityfreeapp.com/index.php
 
@@ -32,8 +34,8 @@ menunjukkan dua pola akses data semantik yang berbeda:
 2. **Koleksi Lokal (butuh setup)** — `lokal.php` dan 21 halaman genre di
    `page-model/` mengambil data dari **triplestore Apache Jena Fuseki** yang
    berjalan di `localhost:3030`. Data ini adalah RDF hasil kurasi manual
-   (disertakan di folder [`RDF/`](RDF)) untuk keperluan tugas kuliah, bukan
-   data live. Karena Fuseki jalan di komputer masing-masing, **bagian ini
+   (disertakan di folder [`RDF/`](RDF)), bukan data live. Karena Fuseki jalan
+   di komputer masing-masing, **bagian ini
    tidak bisa diakses lewat versi online** — begitu dibuka, akan muncul modal
    yang menjelaskan hal ini dan mengarahkan ke README ini:
 
@@ -89,9 +91,8 @@ lewat DBpedia, tanpa perlu install Fuseki sama sekali.
 [Composer](https://getcomposer.org/) (atau pakai `composer.phar` yang sudah
 ada di repo).
 
-1. Clone/copy repo ini ke `C:\xampp\htdocs\`. Disarankan rename folder tanpa
-   spasi, misalnya `semantic-game-explorer` (folder tugas asli bernama
-   `TUBES WEB SEMANTIK`, dan spasi di URL sering bikin ribet karena harus
+1. Clone/copy repo ini ke `C:\xampp\htdocs\semantic-game-explorer` (hindari
+   spasi di nama folder — spasi di URL sering bikin ribet karena harus
    di-encode jadi `%20`).
 2. Install dependency PHP:
    ```bash
@@ -209,5 +210,5 @@ per kategori/genre.
   dari Wikipedia, [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.id)).
   - Gambar sampul & ringkasan artikel: [Wikipedia](https://www.wikipedia.org/)
   lewat REST API resminya.
-  - Data koleksi lokal (folder `RDF/`): dikurasi manual untuk keperluan tugas
-  kuliah dari sumber yang sama (DBpedia/Wikipedia).
+  - Data koleksi lokal (folder `RDF/`): dikurasi manual dari sumber yang sama
+  (DBpedia/Wikipedia).

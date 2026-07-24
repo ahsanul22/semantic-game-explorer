@@ -2,11 +2,9 @@
 /* =====================================================================
    ALAT DIAGNOSA — Smart Game Seeker
    ---------------------------------------------------------------------
-   Letakkan berkas ini di folder utama proyek (sejajar dengan index.php),
-   lalu buka:  http://localhost/TUBES%20WEB%20SEMANTIK/cek.php
+   Buka lewat:  http://localhost/semantic-game-explorer/tools/cek.php
 
    Berkas ini hanya membaca dan menguji; tidak mengubah apa pun.
-   Hapus setelah selesai dipakai.
    ===================================================================== */
 
 error_reporting(E_ALL);
