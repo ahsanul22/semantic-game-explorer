@@ -558,7 +558,7 @@ if ($telusur !== '') {
           <div class="seek__field">
             <input type="search" name="q" id="catInput" autocomplete="off"
                    value="<?= htmlspecialchars($telusur) ?>"
-                   placeholder="Nama game — zelda, elden ring, car…">
+                   placeholder="Nama: zelda, elden ring, car…">
             <button type="submit">CARI</button>
           </div>
         </form>

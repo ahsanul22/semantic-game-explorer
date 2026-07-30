@@ -76,6 +76,12 @@ function ambil_artikel_wiki($urlWiki)
         'explaintext' => 1,
         'piprop'   => 'original|thumbnail',
         'pithumbsize' => 640,
+        // WAJIB. Bawaan pageimages adalah pilicense=free, sedangkan sampul
+        // game hampir selalu berlisensi non-bebas (fair use) — tanpa baris
+        // ini API balas TANPA thumbnail sama sekali untuk hampir tiap game,
+        // sehingga detail selalu jatuh ke gambar cadangan. REST summary yang
+        // dipakai kartu di index memang sudah "any", makanya di sana muncul.
+        'pilicense' => 'any',
         'titles'   => rawurldecode($nama),
     ]);
 
